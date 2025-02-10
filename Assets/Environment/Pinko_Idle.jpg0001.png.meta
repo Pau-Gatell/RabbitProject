@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 9b1642127ec14134dbfbeffb0ea65f7a
+guid: 326b2cba6ecdbe047beb0dfcbb774285
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3767355086752688424
-    second: texturas-3_0
+      213: 367782695014271227
+    second: Pinko_Idle.jpg0001_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: texturas-3_0
+      name: Pinko_Idle.jpg0001_0
       rect:
         serializedVersion: 2
-        x: 578
-        y: 0
-        width: 122
-        height: 699
+        x: 145
+        y: 47
+        width: 217
+        height: 316
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 829a7a8bd75584430800000000000000
-      internalID: 3767355086752688424
+      spriteID: bf88cda9960aa1500800000000000000
+      internalID: 367782695014271227
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      texturas-3_0: 3767355086752688424
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
