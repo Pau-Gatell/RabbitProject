@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ba8364d9f8194e648ae4c7e6071419a6
+guid: 326b2cba6ecdbe047beb0dfcbb774285
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Pinko_Idle.jpg0001_0: 367782695014271227
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
