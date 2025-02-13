@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 3268f96db9d2424478ff9edc9cd1a568
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2930414723009293048
+    second: Pinko_Run_SpriteSheet_0
+  - first:
+      213: -2175243815900416953
+    second: Pinko_Run_SpriteSheet_1
+  - first:
+      213: 8932557685988470046
+    second: Pinko_Run_SpriteSheet_2
+  - first:
+      213: -5619372235294611644
+    second: Pinko_Run_SpriteSheet_3
+  - first:
+      213: 3395952914590387066
+    second: Pinko_Run_SpriteSheet_4
+  - first:
+      213: -8781101894315247160
+    second: Pinko_Run_SpriteSheet_5
+  - first:
+      213: 228961571013566220
+    second: Pinko_Run_SpriteSheet_6
+  - first:
+      213: 2577592507993879032
+    second: Pinko_Run_SpriteSheet_7
+  - first:
+      213: -9215408434842056074
+    second: Pinko_Run_SpriteSheet_8
+  - first:
+      213: 5521410241734461879
+    second: Pinko_Run_SpriteSheet_9
+  - first:
+      213: 2802689369727862153
+    second: Pinko_Run_SpriteSheet_10
+  - first:
+      213: -1382948146503102987
+    second: Pinko_Run_SpriteSheet_11
+  - first:
+      213: 7869151970636136777
+    second: Pinko_Run_SpriteSheet_12
+  - first:
+      213: 6110118102114819663
+    second: Pinko_Run_SpriteSheet_13
+  - first:
+      213: 5058101523051328544
+    second: Pinko_Run_SpriteSheet_14
+  - first:
+      213: -8486286512896377082
+    second: Pinko_Run_SpriteSheet_15
+  - first:
+      213: 5748916651605571958
+    second: Pinko_Run_SpriteSheet_16
+  - first:
+      213: 4214138870777370507
+    second: Pinko_Run_SpriteSheet_17
+  - first:
+      213: 4886446714627523418
+    second: Pinko_Run_SpriteSheet_18
+  - first:
+      213: 7447966052932661200
+    second: Pinko_Run_SpriteSheet_19
+  - first:
+      213: 6008192141175486105
+    second: Pinko_Run_SpriteSheet_20
+  - first:
+      213: 5015228240760723050
+    second: Pinko_Run_SpriteSheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2046
+        width: 248
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805d47ed5531557d0800000000000000
+      internalID: -2930414723009293048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2046
+        width: 248
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744f36d364bffc1e0800000000000000
+      internalID: -2175243815900416953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 2048
+        width: 237
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d270183e1d6fb70800000000000000
+      internalID: 8932557685988470046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 2048
+        width: 237
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447629689baf302b0800000000000000
+      internalID: -5619372235294611644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 2048
+        width: 237
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bcc1cee29d02f20800000000000000
+      internalID: 3395952914590387066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1548
+        width: 236
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c974d4f952432680800000000000000
+      internalID: -8781101894315247160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1548
+        width: 236
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f9a73f55f6d2300800000000000000
+      internalID: 228961571013566220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1547
+        width: 245
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1fea6bab275c320800000000000000
+      internalID: 2577592507993879032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1547
+        width: 245
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ac9159ada4c1080800000000000000
+      internalID: -9215408434842056074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1547
+        width: 237
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b949c57c5dff9c40800000000000000
+      internalID: 5521410241734461879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1047
+        width: 237
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985846ae12725e620800000000000000
+      internalID: 2802689369727862153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1042
+        width: 296
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdc5e8ecf7cecce0800000000000000
+      internalID: -1382948146503102987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1042
+        width: 296
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94105555608d43d60800000000000000
+      internalID: 7869151970636136777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1046
+        width: 264
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4edc348a008bc450800000000000000
+      internalID: 6110118102114819663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 1046
+        width: 264
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0243657498cf13640800000000000000
+      internalID: 5058101523051328544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 546
+        width: 264
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f7f98f067aa3a80800000000000000
+      internalID: -8486286512896377082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 545
+        width: 263
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679374e4c3148cf40800000000000000
+      internalID: 5748916651605571958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 545
+        width: 263
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87d9dab9f0ab7a30800000000000000
+      internalID: 4214138870777370507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 547
+        width: 256
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a538f3fb56520d340800000000000000
+      internalID: 4886446714627523418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 547
+        width: 256
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df28340aad7c5760800000000000000
+      internalID: 7447966052932661200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 47
+        width: 252
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996fe0d6be2616350800000000000000
+      internalID: 6008192141175486105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Run_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 47
+        width: 252
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66dc0e538ba99540800000000000000
+      internalID: 5015228240760723050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pinko_Run_SpriteSheet_0: -2930414723009293048
+      Pinko_Run_SpriteSheet_1: -2175243815900416953
+      Pinko_Run_SpriteSheet_10: 2802689369727862153
+      Pinko_Run_SpriteSheet_11: -1382948146503102987
+      Pinko_Run_SpriteSheet_12: 7869151970636136777
+      Pinko_Run_SpriteSheet_13: 6110118102114819663
+      Pinko_Run_SpriteSheet_14: 5058101523051328544
+      Pinko_Run_SpriteSheet_15: -8486286512896377082
+      Pinko_Run_SpriteSheet_16: 5748916651605571958
+      Pinko_Run_SpriteSheet_17: 4214138870777370507
+      Pinko_Run_SpriteSheet_18: 4886446714627523418
+      Pinko_Run_SpriteSheet_19: 7447966052932661200
+      Pinko_Run_SpriteSheet_2: 8932557685988470046
+      Pinko_Run_SpriteSheet_20: 6008192141175486105
+      Pinko_Run_SpriteSheet_21: 5015228240760723050
+      Pinko_Run_SpriteSheet_3: -5619372235294611644
+      Pinko_Run_SpriteSheet_4: 3395952914590387066
+      Pinko_Run_SpriteSheet_5: -8781101894315247160
+      Pinko_Run_SpriteSheet_6: 228961571013566220
+      Pinko_Run_SpriteSheet_7: 2577592507993879032
+      Pinko_Run_SpriteSheet_8: -9215408434842056074
+      Pinko_Run_SpriteSheet_9: 5521410241734461879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: ee326284fa1fd9a40971a787b1e7137a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1805523351615126312
+    second: Pinko_Fall_SpriteSheet_0
+  - first:
+      213: 2364437113012822942
+    second: Pinko_Fall_SpriteSheet_1
+  - first:
+      213: -887952343913538690
+    second: Pinko_Fall_SpriteSheet_2
+  - first:
+      213: -6495936217161303556
+    second: Pinko_Fall_SpriteSheet_3
+  - first:
+      213: 8630770968025961010
+    second: Pinko_Fall_SpriteSheet_4
+  - first:
+      213: -1166023567861290242
+    second: Pinko_Fall_SpriteSheet_5
+  - first:
+      213: 3982345790770454849
+    second: Pinko_Fall_SpriteSheet_6
+  - first:
+      213: -3637864033933052486
+    second: Pinko_Fall_SpriteSheet_7
+  - first:
+      213: -536491197154164626
+    second: Pinko_Fall_SpriteSheet_8
+  - first:
+      213: 5236724397389967103
+    second: Pinko_Fall_SpriteSheet_9
+  - first:
+      213: 3713160091170227392
+    second: Pinko_Fall_SpriteSheet_10
+  - first:
+      213: 2478972486728060944
+    second: Pinko_Fall_SpriteSheet_11
+  - first:
+      213: -1031672973286536766
+    second: Pinko_Fall_SpriteSheet_12
+  - first:
+      213: 2257966001448632814
+    second: Pinko_Fall_SpriteSheet_13
+  - first:
+      213: -3256665928316523426
+    second: Pinko_Fall_SpriteSheet_14
+  - first:
+      213: 8559001434632727509
+    second: Pinko_Fall_SpriteSheet_15
+  - first:
+      213: -8033870347753748209
+    second: Pinko_Fall_SpriteSheet_16
+  - first:
+      213: 4451402568984802678
+    second: Pinko_Fall_SpriteSheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1552
+        width: 258
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b31b61ce18e0910800000000000000
+      internalID: 1805523351615126312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1552
+        width: 258
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9321e6e60b20d020800000000000000
+      internalID: 2364437113012822942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1552
+        width: 258
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bde8b3c0c5da3f0800000000000000
+      internalID: -887952343913538690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1546
+        width: 258
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9718c6d6cc9d5a0800000000000000
+      internalID: -6495936217161303556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 1546
+        width: 258
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23211f6b778a6c770800000000000000
+      internalID: 8630770968025961010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1046
+        width: 258
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efae4ed2eb371dfe0800000000000000
+      internalID: -1166023567861290242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1045
+        width: 258
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14125a7b562244730800000000000000
+      internalID: 3982345790770454849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1045
+        width: 258
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab530447fe5b38dc0800000000000000
+      internalID: -3637864033933052486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1045
+        width: 258
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60808049100e88f0800000000000000
+      internalID: -536491197154164626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 1052
+        width: 258
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeec0518159ca840800000000000000
+      internalID: 5236724397389967103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 552
+        width: 258
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4cb540e6bc78330800000000000000
+      internalID: 3713160091170227392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 552
+        width: 258
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010946fa754176220800000000000000
+      internalID: 2478972486728060944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 547
+        width: 258
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c982e695e2cea1f0800000000000000
+      internalID: -1031672973286536766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 547
+        width: 258
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee141477d18e55f10800000000000000
+      internalID: 2257966001448632814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 547
+        width: 258
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c639eb79ffdc2d0800000000000000
+      internalID: -3256665928316523426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 45
+        width: 258
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dba75f057ea7c670800000000000000
+      internalID: 8559001434632727509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 45
+        width: 258
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f090896eb75f18090800000000000000
+      internalID: -8033870347753748209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Fall_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 45
+        width: 258
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675b99c4d0f86cd30800000000000000
+      internalID: 4451402568984802678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pinko_Fall_SpriteSheet_0: 1805523351615126312
+      Pinko_Fall_SpriteSheet_1: 2364437113012822942
+      Pinko_Fall_SpriteSheet_10: 3713160091170227392
+      Pinko_Fall_SpriteSheet_11: 2478972486728060944
+      Pinko_Fall_SpriteSheet_12: -1031672973286536766
+      Pinko_Fall_SpriteSheet_13: 2257966001448632814
+      Pinko_Fall_SpriteSheet_14: -3256665928316523426
+      Pinko_Fall_SpriteSheet_15: 8559001434632727509
+      Pinko_Fall_SpriteSheet_16: -8033870347753748209
+      Pinko_Fall_SpriteSheet_17: 4451402568984802678
+      Pinko_Fall_SpriteSheet_2: -887952343913538690
+      Pinko_Fall_SpriteSheet_3: -6495936217161303556
+      Pinko_Fall_SpriteSheet_4: 8630770968025961010
+      Pinko_Fall_SpriteSheet_5: -1166023567861290242
+      Pinko_Fall_SpriteSheet_6: 3982345790770454849
+      Pinko_Fall_SpriteSheet_7: -3637864033933052486
+      Pinko_Fall_SpriteSheet_8: -536491197154164626
+      Pinko_Fall_SpriteSheet_9: 5236724397389967103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
