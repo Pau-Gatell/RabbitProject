@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 674be6d9bfeb2af489cb1f0565a45371
+guid: d841c5c8e4fb9d943bc07470369de66c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 201398525138021792
-    second: no_textture_block-tilemap_v2_0
-  - first:
-      213: 5086171986496631008
-    second: no_textture_block-tilemap_v2_1
+      213: 8053191267615329650
+    second: etiqueta-engomada-dibujos-animados-caja-madera-sobre-fondo-blanco_1308-81065_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,67 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: no_textture_block-tilemap_v2_0
+      name: etiqueta-engomada-dibujos-animados-caja-madera-sobre-fondo-blanco_1308-81065_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 415
-        height: 408
+        x: 33
+        y: 57
+        width: 537
+        height: 535
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c0a0304a1cfe54948bde232056c3eba0
-      internalID: -907133336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: no_textture_block-tilemap_v2_1
-      rect:
-        serializedVersion: 2
-        x: 500
-        y: 0
-        width: 500
-        height: 416
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a275c3ead9e57c4ca9eab8413e43df9
-      internalID: 933101795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: no_textture_block-tilemap_v2_2
-      rect:
-        serializedVersion: 2
-        x: 1000
-        y: 0
-        width: 500
-        height: 500
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a55fe25fffb470d45b2fcd1afe2c8ed9
-      internalID: 500478819
+      spriteID: 27d4d7e4acea2cf60800000000000000
+      internalID: 8053191267615329650
       vertices: []
       indices: 
       edges: []
@@ -172,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 14f7fe7d44cca584080b05d9938394be
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -181,10 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      no_textture_block-tilemap_v2_0: -907133336
-      no_textture_block-tilemap_v2_1: 933101795
-      no_textture_block-tilemap_v2_2: 500478819
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
