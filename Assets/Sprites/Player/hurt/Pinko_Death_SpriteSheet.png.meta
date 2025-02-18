@@ -1,61 +1,73 @@
 fileFormatVersion: 2
-guid: ee326284fa1fd9a40971a787b1e7137a
+guid: 757b7175ee966fd48b02891a1aead8e7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1805523351615126312
-    second: Pinko_Fall_SpriteSheet_0
+      213: 4061137952061676848
+    second: Pinko_Death_SpriteSheet_0
   - first:
-      213: 2364437113012822942
-    second: Pinko_Fall_SpriteSheet_1
+      213: -8283319904942374973
+    second: Pinko_Death_SpriteSheet_1
   - first:
-      213: -887952343913538690
-    second: Pinko_Fall_SpriteSheet_2
+      213: -5912156081398478966
+    second: Pinko_Death_SpriteSheet_2
   - first:
-      213: -6495936217161303556
-    second: Pinko_Fall_SpriteSheet_3
+      213: -3420576624978172126
+    second: Pinko_Death_SpriteSheet_3
   - first:
-      213: 8630770968025961010
-    second: Pinko_Fall_SpriteSheet_4
+      213: -5898594285934510805
+    second: Pinko_Death_SpriteSheet_4
   - first:
-      213: -1166023567861290242
-    second: Pinko_Fall_SpriteSheet_5
+      213: 7602662380582581183
+    second: Pinko_Death_SpriteSheet_5
   - first:
-      213: 3982345790770454849
-    second: Pinko_Fall_SpriteSheet_6
+      213: 5281124858359896427
+    second: Pinko_Death_SpriteSheet_6
   - first:
-      213: -3637864033933052486
-    second: Pinko_Fall_SpriteSheet_7
+      213: -5884540128211774442
+    second: Pinko_Death_SpriteSheet_7
   - first:
-      213: -536491197154164626
-    second: Pinko_Fall_SpriteSheet_8
+      213: -2743217279598615861
+    second: Pinko_Death_SpriteSheet_8
   - first:
-      213: 5236724397389967103
-    second: Pinko_Fall_SpriteSheet_9
+      213: -2857609990149643168
+    second: Pinko_Death_SpriteSheet_9
   - first:
-      213: 3713160091170227392
-    second: Pinko_Fall_SpriteSheet_10
+      213: -5170731407331897295
+    second: Pinko_Death_SpriteSheet_10
   - first:
-      213: 2478972486728060944
-    second: Pinko_Fall_SpriteSheet_11
+      213: 9079737078151082565
+    second: Pinko_Death_SpriteSheet_11
   - first:
-      213: -1031672973286536766
-    second: Pinko_Fall_SpriteSheet_12
+      213: -2637556603621254400
+    second: Pinko_Death_SpriteSheet_12
   - first:
-      213: 2257966001448632814
-    second: Pinko_Fall_SpriteSheet_13
+      213: -8074315231058303337
+    second: Pinko_Death_SpriteSheet_13
   - first:
-      213: -3256665928316523426
-    second: Pinko_Fall_SpriteSheet_14
+      213: -4729029630977434233
+    second: Pinko_Death_SpriteSheet_14
   - first:
-      213: 8559001434632727509
-    second: Pinko_Fall_SpriteSheet_15
+      213: 5906545097217251010
+    second: Pinko_Death_SpriteSheet_15
   - first:
-      213: -8033870347753748209
-    second: Pinko_Fall_SpriteSheet_16
+      213: 8073189983659863652
+    second: Pinko_Death_SpriteSheet_16
   - first:
-      213: 4451402568984802678
-    second: Pinko_Fall_SpriteSheet_17
+      213: 8628941067249507676
+    second: Pinko_Death_SpriteSheet_17
+  - first:
+      213: 1525375372836452182
+    second: Pinko_Death_SpriteSheet_18
+  - first:
+      213: 5770589993317304609
+    second: Pinko_Death_SpriteSheet_19
+  - first:
+      213: -3334103228246526193
+    second: Pinko_Death_SpriteSheet_20
+  - first:
+      213: 574216714754892323
+    second: Pinko_Death_SpriteSheet_21
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -151,7 +163,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_0
+      name: Pinko_Death_SpriteSheet_0
       rect:
         serializedVersion: 2
         x: 0
@@ -166,14 +178,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 82b31b61ce18e0910800000000000000
-      internalID: 1805523351615126312
+      spriteID: 03d5e78537f0c5830800000000000000
+      internalID: 4061137952061676848
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_1
+      name: Pinko_Death_SpriteSheet_1
       rect:
         serializedVersion: 2
         x: 256
@@ -188,14 +200,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e9321e6e60b20d020800000000000000
-      internalID: 2364437113012822942
+      spriteID: 3cfbcf0fe6cbb0d80800000000000000
+      internalID: -8283319904942374973
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_2
+      name: Pinko_Death_SpriteSheet_2
       rect:
         serializedVersion: 2
         x: 512
@@ -210,14 +222,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e7bde8b3c0c5da3f0800000000000000
-      internalID: -887952343913538690
+      spriteID: a87049f2e5dc3fda0800000000000000
+      internalID: -5912156081398478966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_3
+      name: Pinko_Death_SpriteSheet_3
       rect:
         serializedVersion: 2
         x: 768
@@ -232,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf9718c6d6cc9d5a0800000000000000
-      internalID: -6495936217161303556
+      spriteID: 227eb2dbeaba780d0800000000000000
+      internalID: -3420576624978172126
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_4
+      name: Pinko_Death_SpriteSheet_4
       rect:
         serializedVersion: 2
         x: 1024
@@ -254,14 +266,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 23211f6b778a6c770800000000000000
-      internalID: 8630770968025961010
+      spriteID: b2d79b0cfbbf32ea0800000000000000
+      internalID: -5898594285934510805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_5
+      name: Pinko_Death_SpriteSheet_5
       rect:
         serializedVersion: 2
         x: 0
@@ -276,14 +288,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: efae4ed2eb371dfe0800000000000000
-      internalID: -1166023567861290242
+      spriteID: fb3b9dd8725128960800000000000000
+      internalID: 7602662380582581183
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_6
+      name: Pinko_Death_SpriteSheet_6
       rect:
         serializedVersion: 2
         x: 256
@@ -298,14 +310,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 14125a7b562244730800000000000000
-      internalID: 3982345790770454849
+      spriteID: b69d60df3135a4940800000000000000
+      internalID: 5281124858359896427
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_7
+      name: Pinko_Death_SpriteSheet_7
       rect:
         serializedVersion: 2
         x: 512
@@ -320,14 +332,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab530447fe5b38dc0800000000000000
-      internalID: -3637864033933052486
+      spriteID: 614d7675ee9e55ea0800000000000000
+      internalID: -5884540128211774442
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_8
+      name: Pinko_Death_SpriteSheet_8
       rect:
         serializedVersion: 2
         x: 768
@@ -342,14 +354,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e60808049100e88f0800000000000000
-      internalID: -536491197154164626
+      spriteID: bc2afcb1b622ee9d0800000000000000
+      internalID: -2743217279598615861
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_9
+      name: Pinko_Death_SpriteSheet_9
       rect:
         serializedVersion: 2
         x: 1024
@@ -364,14 +376,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ffeec0518159ca840800000000000000
-      internalID: 5236724397389967103
+      spriteID: 064e58eaadab758d0800000000000000
+      internalID: -2857609990149643168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_10
+      name: Pinko_Death_SpriteSheet_10
       rect:
         serializedVersion: 2
         x: 0
@@ -386,14 +398,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0c4cb540e6bc78330800000000000000
-      internalID: 3713160091170227392
+      spriteID: 130d6054e2fdd38b0800000000000000
+      internalID: -5170731407331897295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_11
+      name: Pinko_Death_SpriteSheet_11
       rect:
         serializedVersion: 2
         x: 256
@@ -408,14 +420,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 010946fa754176220800000000000000
-      internalID: 2478972486728060944
+      spriteID: 542732d14c4b10e70800000000000000
+      internalID: 9079737078151082565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_12
+      name: Pinko_Death_SpriteSheet_12
       rect:
         serializedVersion: 2
         x: 512
@@ -430,14 +442,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2c982e695e2cea1f0800000000000000
-      internalID: -1031672973286536766
+      spriteID: 00b5b2e4e34856bd0800000000000000
+      internalID: -2637556603621254400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_13
+      name: Pinko_Death_SpriteSheet_13
       rect:
         serializedVersion: 2
         x: 768
@@ -452,14 +464,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ee141477d18e55f10800000000000000
-      internalID: 2257966001448632814
+      spriteID: 7966e30b31542ff80800000000000000
+      internalID: -8074315231058303337
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_14
+      name: Pinko_Death_SpriteSheet_14
       rect:
         serializedVersion: 2
         x: 1024
@@ -474,14 +486,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5c639eb79ffdc2d0800000000000000
-      internalID: -3256665928316523426
+      spriteID: 78d1b492b9c1f5eb0800000000000000
+      internalID: -4729029630977434233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_15
+      name: Pinko_Death_SpriteSheet_15
       rect:
         serializedVersion: 2
         x: 0
@@ -496,14 +508,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5dba75f057ea7c670800000000000000
-      internalID: 8559001434632727509
+      spriteID: 2c69571c87348f150800000000000000
+      internalID: 5906545097217251010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_16
+      name: Pinko_Death_SpriteSheet_16
       rect:
         serializedVersion: 2
         x: 256
@@ -518,14 +530,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f090896eb75f18090800000000000000
-      internalID: -8033870347753748209
+      spriteID: 46ea94c348bb90070800000000000000
+      internalID: 8073189983659863652
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Fall_SpriteSheet_17
+      name: Pinko_Death_SpriteSheet_17
       rect:
         serializedVersion: 2
         x: 512
@@ -540,8 +552,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 675b99c4d0f86cd30800000000000000
-      internalID: 4451402568984802678
+      spriteID: c5ddf2dbe2820c770800000000000000
+      internalID: 8628941067249507676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Death_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657bb0fd1d83b2510800000000000000
+      internalID: 1525375372836452182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Death_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1290a186601451050800000000000000
+      internalID: 5770589993317304609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Death_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07f1eb57c2eab1d0800000000000000
+      internalID: -3334103228246526193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinko_Death_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322ae0b4f0708f700800000000000000
+      internalID: 574216714754892323
       vertices: []
       indices: 
       edges: []
@@ -550,7 +650,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: da09e40fca3c0c847829986ecf5a221a
+    spriteID: 14024f60fd19c4140af8159d03c05834
     internalID: 0
     vertices: []
     indices: 
@@ -560,24 +660,28 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Pinko_Fall_SpriteSheet_0: 1805523351615126312
-      Pinko_Fall_SpriteSheet_1: 2364437113012822942
-      Pinko_Fall_SpriteSheet_10: 3713160091170227392
-      Pinko_Fall_SpriteSheet_11: 2478972486728060944
-      Pinko_Fall_SpriteSheet_12: -1031672973286536766
-      Pinko_Fall_SpriteSheet_13: 2257966001448632814
-      Pinko_Fall_SpriteSheet_14: -3256665928316523426
-      Pinko_Fall_SpriteSheet_15: 8559001434632727509
-      Pinko_Fall_SpriteSheet_16: -8033870347753748209
-      Pinko_Fall_SpriteSheet_17: 4451402568984802678
-      Pinko_Fall_SpriteSheet_2: -887952343913538690
-      Pinko_Fall_SpriteSheet_3: -6495936217161303556
-      Pinko_Fall_SpriteSheet_4: 8630770968025961010
-      Pinko_Fall_SpriteSheet_5: -1166023567861290242
-      Pinko_Fall_SpriteSheet_6: 3982345790770454849
-      Pinko_Fall_SpriteSheet_7: -3637864033933052486
-      Pinko_Fall_SpriteSheet_8: -536491197154164626
-      Pinko_Fall_SpriteSheet_9: 5236724397389967103
+      Pinko_Death_SpriteSheet_0: 4061137952061676848
+      Pinko_Death_SpriteSheet_1: -8283319904942374973
+      Pinko_Death_SpriteSheet_10: -5170731407331897295
+      Pinko_Death_SpriteSheet_11: 9079737078151082565
+      Pinko_Death_SpriteSheet_12: -2637556603621254400
+      Pinko_Death_SpriteSheet_13: -8074315231058303337
+      Pinko_Death_SpriteSheet_14: -4729029630977434233
+      Pinko_Death_SpriteSheet_15: 5906545097217251010
+      Pinko_Death_SpriteSheet_16: 8073189983659863652
+      Pinko_Death_SpriteSheet_17: 8628941067249507676
+      Pinko_Death_SpriteSheet_18: 1525375372836452182
+      Pinko_Death_SpriteSheet_19: 5770589993317304609
+      Pinko_Death_SpriteSheet_2: -5912156081398478966
+      Pinko_Death_SpriteSheet_20: -3334103228246526193
+      Pinko_Death_SpriteSheet_21: 574216714754892323
+      Pinko_Death_SpriteSheet_3: -3420576624978172126
+      Pinko_Death_SpriteSheet_4: -5898594285934510805
+      Pinko_Death_SpriteSheet_5: 7602662380582581183
+      Pinko_Death_SpriteSheet_6: 5281124858359896427
+      Pinko_Death_SpriteSheet_7: -5884540128211774442
+      Pinko_Death_SpriteSheet_8: -2743217279598615861
+      Pinko_Death_SpriteSheet_9: -2857609990149643168
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

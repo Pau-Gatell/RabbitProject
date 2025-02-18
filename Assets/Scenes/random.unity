@@ -137,7 +137,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8485433807149383905, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -20.42
+      value: -7.11
       objectReference: {fileID: 0}
     - target: {fileID: 8485433807149383905, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
       propertyPath: m_LocalPosition.y
@@ -616,6 +616,7 @@ GameObject:
   m_Component:
   - component: {fileID: 403717775}
   - component: {fileID: 403717776}
+  - component: {fileID: 403717777}
   m_Layer: 0
   m_Name: City_BGdef_0 (4)
   m_TagString: Untagged
@@ -693,6 +694,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &403717777
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 403717774}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d4274e0ee08b6d14ebae26588f1eac50, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &523460889
 GameObject:
   m_ObjectHideFlags: 0
@@ -1393,7 +1416,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 30
+  orthographic size: 10
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2

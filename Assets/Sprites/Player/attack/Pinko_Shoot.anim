@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Pinko_Shoot
+  m_Name: pinko_shoot
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -26,13 +26,13 @@ AnimationClip:
       value: {fileID: 5506346055095343431, guid: 2f3f258a70330094ebf3a984617ee547, type: 3}
     - time: 0.16666667
       value: {fileID: 8191284793129475208, guid: 2f3f258a70330094ebf3a984617ee547, type: 3}
-    - time: 0.25
+    - time: 0.16666667
       value: {fileID: 898486899733837410, guid: 2f3f258a70330094ebf3a984617ee547, type: 3}
-    - time: 0.33333334
+    - time: 0.25
       value: {fileID: -3307240413392301250, guid: 2f3f258a70330094ebf3a984617ee547, type: 3}
-    - time: 0.41666666
+    - time: 0.33333334
       value: {fileID: 3096713438918520938, guid: 2f3f258a70330094ebf3a984617ee547, type: 3}
-    - time: 0.5
+    - time: 0.41666666
       value: {fileID: -4888149362807925256, guid: 2f3f258a70330094ebf3a984617ee547, type: 3}
     attribute: m_Sprite
     path: 
@@ -68,7 +68,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.5833333
+    m_StopTime: 0.5
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0

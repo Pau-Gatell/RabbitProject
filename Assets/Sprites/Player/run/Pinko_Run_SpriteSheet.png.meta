@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3268f96db9d2424478ff9edc9cd1a568
+guid: 54305f03bcbafbd48a9767791bd96919
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -114,9 +114,9 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 256
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 0
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -166,10 +166,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_0
       rect:
         serializedVersion: 2
-        x: 96
-        y: 2046
-        width: 248
-        height: 346
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,10 +188,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_1
       rect:
         serializedVersion: 2
-        x: 596
-        y: 2046
-        width: 248
-        height: 346
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,10 +210,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_2
       rect:
         serializedVersion: 2
-        x: 1118
-        y: 2048
-        width: 237
-        height: 332
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -232,10 +232,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_3
       rect:
         serializedVersion: 2
-        x: 1618
-        y: 2048
-        width: 237
-        height: 332
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -254,10 +254,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_4
       rect:
         serializedVersion: 2
-        x: 2118
-        y: 2048
-        width: 237
-        height: 332
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -276,10 +276,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_5
       rect:
         serializedVersion: 2
-        x: 119
-        y: 1548
-        width: 236
-        height: 332
+        x: 0
+        y: 768
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -298,10 +298,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_6
       rect:
         serializedVersion: 2
-        x: 619
-        y: 1548
-        width: 236
-        height: 332
+        x: 256
+        y: 768
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -320,10 +320,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_7
       rect:
         serializedVersion: 2
-        x: 1118
-        y: 1547
-        width: 245
-        height: 325
+        x: 512
+        y: 768
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,10 +342,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_8
       rect:
         serializedVersion: 2
-        x: 1618
-        y: 1547
-        width: 245
-        height: 325
+        x: 768
+        y: 768
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -364,10 +364,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_9
       rect:
         serializedVersion: 2
-        x: 2129
-        y: 1547
-        width: 237
-        height: 318
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,10 +386,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_10
       rect:
         serializedVersion: 2
-        x: 129
-        y: 1047
-        width: 237
-        height: 318
+        x: 0
+        y: 512
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -408,10 +408,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_11
       rect:
         serializedVersion: 2
-        x: 673
-        y: 1042
-        width: 296
-        height: 348
+        x: 256
+        y: 512
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -430,10 +430,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_12
       rect:
         serializedVersion: 2
-        x: 1173
-        y: 1042
-        width: 296
-        height: 348
+        x: 512
+        y: 512
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -452,10 +452,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_13
       rect:
         serializedVersion: 2
-        x: 1665
-        y: 1046
-        width: 264
-        height: 341
+        x: 768
+        y: 512
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -474,10 +474,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_14
       rect:
         serializedVersion: 2
-        x: 2165
-        y: 1046
-        width: 264
-        height: 341
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -496,10 +496,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_15
       rect:
         serializedVersion: 2
-        x: 165
-        y: 546
-        width: 264
-        height: 341
+        x: 0
+        y: 256
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -518,10 +518,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_16
       rect:
         serializedVersion: 2
-        x: 666
-        y: 545
-        width: 263
-        height: 343
+        x: 256
+        y: 256
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -540,10 +540,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_17
       rect:
         serializedVersion: 2
-        x: 1166
-        y: 545
-        width: 263
-        height: 343
+        x: 512
+        y: 256
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -562,10 +562,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_18
       rect:
         serializedVersion: 2
-        x: 1659
-        y: 547
+        x: 768
+        y: 256
         width: 256
-        height: 337
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -584,10 +584,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_19
       rect:
         serializedVersion: 2
-        x: 2159
-        y: 547
+        x: 1024
+        y: 256
         width: 256
-        height: 337
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -606,10 +606,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_20
       rect:
         serializedVersion: 2
-        x: 163
-        y: 47
-        width: 252
-        height: 340
+        x: 0
+        y: 0
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -628,10 +628,10 @@ TextureImporter:
       name: Pinko_Run_SpriteSheet_21
       rect:
         serializedVersion: 2
-        x: 663
-        y: 47
-        width: 252
-        height: 340
+        x: 256
+        y: 0
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -650,7 +650,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bbcce42c05695fd4980560bec24e0e27
     internalID: 0
     vertices: []
     indices: 

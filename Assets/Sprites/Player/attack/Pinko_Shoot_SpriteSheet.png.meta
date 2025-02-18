@@ -23,9 +23,6 @@ TextureImporter:
   - first:
       213: -4888149362807925256
     second: Pinko_Shoot_SpriteSheet_6
-  - first:
-      213: 7361196362494208883
-    second: Pinko_Shoot_SpriteSheet_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -58,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 256
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -125,9 +122,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 500
-        width: 500
-        height: 500
+        y: 1024
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,10 +143,10 @@ TextureImporter:
       name: Pinko_Shoot_SpriteSheet_1
       rect:
         serializedVersion: 2
-        x: 500
-        y: 500
-        width: 500
-        height: 500
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,10 +165,10 @@ TextureImporter:
       name: Pinko_Shoot_SpriteSheet_2
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 500
-        width: 500
-        height: 500
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,10 +187,10 @@ TextureImporter:
       name: Pinko_Shoot_SpriteSheet_3
       rect:
         serializedVersion: 2
-        x: 1500
-        y: 500
-        width: 500
-        height: 500
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,10 +209,10 @@ TextureImporter:
       name: Pinko_Shoot_SpriteSheet_4
       rect:
         serializedVersion: 2
-        x: 2000
-        y: 500
-        width: 500
-        height: 500
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,9 +232,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 500
-        height: 500
+        y: 768
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +253,10 @@ TextureImporter:
       name: Pinko_Shoot_SpriteSheet_6
       rect:
         serializedVersion: 2
-        x: 500
-        y: 0
-        width: 500
-        height: 500
+        x: 256
+        y: 768
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,7 +275,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 8ba153f1d7c7067499fee4ed8f03db7c
+    spriteID: 16ac96d63212f9744832966438f6c9e5
     internalID: 0
     vertices: []
     indices: 
