@@ -10,7 +10,7 @@ public class CameraController : MonoBehaviour
     void Start()
     {
         // Ejemplo de desplazamiento: 2 unidades a la derecha y 1 arriba
-        offset = new Vector3(20f, 24f, 0f);
+        offset = new Vector3(2f, 1f, 0f);
     }
 
     void Update()
@@ -22,4 +22,3 @@ public class CameraController : MonoBehaviour
         );
     }
 }
-
