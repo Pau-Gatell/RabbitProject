@@ -9,7 +9,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8485433807149383905}
-  - component: {fileID: 877389777424933153}
   - component: {fileID: 7158674778641773490}
   - component: {fileID: 5882889628281576426}
   m_Layer: 0
@@ -35,27 +34,6 @@ Transform:
   - {fileID: 8130272659179727275}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &877389777424933153
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 78891844530407693}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc61d2acc785ae44089c80871c55ee4b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 8
-  jumpForce: 15
-  ceilDistance: 1
-  gravity: 2
-  maxJumps: 2
-  cAnimator: {fileID: 3483145326026788520}
-  cRenderer: {fileID: 6673413189984173722}
-  cRigidbody: {fileID: 5882889628281576426}
-  cCollider: {fileID: 7158674778641773490}
 --- !u!70 &7158674778641773490
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

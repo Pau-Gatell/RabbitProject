@@ -30,6 +30,10 @@ public class PlayerController : MonoBehaviour
     {
         INSTANCE = this;
         jumpCount = 0;
+
+        // Asegurar que Rigidbody2D tenga configuración correcta
+        cRigidbody.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
+        cRigidbody.gravityScale = gravity;
     }
 
     void Update()
@@ -58,7 +62,6 @@ public class PlayerController : MonoBehaviour
     {
         PlayerGrounded();
 
-        Vector2 dir = new Vector2(normal.y, normal.x) * move.x;
         Vector2 targetVelocity = new Vector2(move.x * speed, cRigidbody.linearVelocity.y);
         cRigidbody.linearVelocity = Vector3.SmoothDamp(cRigidbody.linearVelocity, targetVelocity, ref m_Velocity, 0.05f);
     }
@@ -73,30 +76,22 @@ public class PlayerController : MonoBehaviour
 
     void PlayerGrounded()
     {
-        RaycastHit2D hit = Physics2D.Raycast(transform.position + Vector3.up * 0.2f, Vector2.down, 0.35f, LayerMask.GetMask("Environment"));
-        RaycastHit2D surfaceHit = Physics2D.Raycast(transform.position + Vector3.up * 1f, Vector2.down, 10f, LayerMask.GetMask("Environment"));
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, 0.5f, LayerMask.GetMask("Environment"));
 
-        normal = surfaceHit ? hit.normal : Vector3.down;
-
-        if (hit && !grounded)
+        if (hit.collider != null) // Verifica que haya contacto con el suelo
         {
             grounded = true;
             jumpCount = 0;
             cAnimator.SetBool("Jump", false);
-        }
-        else if (!hit)
-        {
-            grounded = false;
-        }
-
-        if (!hit && cRigidbody.linearVelocity.y < 0)
-        {
-            cAnimator.SetBool("Fall", true);
-            cAnimator.SetBool("Jump", false);
+            cAnimator.SetBool("Fall", false);
         }
         else
         {
-            cAnimator.SetBool("Fall", false);
+            grounded = false;
+            if (cRigidbody.linearVelocity.y < 0)
+            {
+                cAnimator.SetBool("Fall", true);
+            }
         }
     }
 }
