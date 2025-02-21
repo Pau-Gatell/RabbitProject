@@ -1,67 +1,67 @@
 fileFormatVersion: 2
-guid: c14e550acfb03a94a9d581d1c597ee13
+guid: eca25760ad80a05429ca8d9fcc2783d1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7456835010726387485
-    second: Pinko_Idle_SpriteSheet_0
+      213: -6838162300585443247
+    second: Cop_Enemy_Idle_SpriteSheet_0
   - first:
-      213: -5653740624656455535
-    second: Pinko_Idle_SpriteSheet_1
+      213: -3798740949368678028
+    second: Cop_Enemy_Idle_SpriteSheet_1
   - first:
-      213: 4229340798880321593
-    second: Pinko_Idle_SpriteSheet_2
+      213: 8912528329741073040
+    second: Cop_Enemy_Idle_SpriteSheet_2
   - first:
-      213: -2171365987833045407
-    second: Pinko_Idle_SpriteSheet_3
+      213: 8842563465231611415
+    second: Cop_Enemy_Idle_SpriteSheet_3
   - first:
-      213: 7235590988963192878
-    second: Pinko_Idle_SpriteSheet_4
+      213: -8805711566001918603
+    second: Cop_Enemy_Idle_SpriteSheet_4
   - first:
-      213: -2403761219030511382
-    second: Pinko_Idle_SpriteSheet_5
+      213: 6576338610781315293
+    second: Cop_Enemy_Idle_SpriteSheet_5
   - first:
-      213: -7675794689201520500
-    second: Pinko_Idle_SpriteSheet_6
+      213: -8228889976431079701
+    second: Cop_Enemy_Idle_SpriteSheet_6
   - first:
-      213: -1818643778620277535
-    second: Pinko_Idle_SpriteSheet_7
+      213: 2089211245920568953
+    second: Cop_Enemy_Idle_SpriteSheet_7
   - first:
-      213: 7988373785379583202
-    second: Pinko_Idle_SpriteSheet_8
+      213: 7301056559817328159
+    second: Cop_Enemy_Idle_SpriteSheet_8
   - first:
-      213: -6999893868270277857
-    second: Pinko_Idle_SpriteSheet_9
+      213: 8838884193596432557
+    second: Cop_Enemy_Idle_SpriteSheet_9
   - first:
-      213: 3518400665539450138
-    second: Pinko_Idle_SpriteSheet_10
+      213: -6623334952149451500
+    second: Cop_Enemy_Idle_SpriteSheet_10
   - first:
-      213: 6228852390270492940
-    second: Pinko_Idle_SpriteSheet_11
+      213: -3826812062444605306
+    second: Cop_Enemy_Idle_SpriteSheet_11
   - first:
-      213: -3914650846665956930
-    second: Pinko_Idle_SpriteSheet_12
+      213: -6977646472590847705
+    second: Cop_Enemy_Idle_SpriteSheet_12
   - first:
-      213: 8253198427890295340
-    second: Pinko_Idle_SpriteSheet_13
+      213: -7502785473425701412
+    second: Cop_Enemy_Idle_SpriteSheet_13
   - first:
-      213: 6261005166117231000
-    second: Pinko_Idle_SpriteSheet_14
+      213: -1069717667985297439
+    second: Cop_Enemy_Idle_SpriteSheet_14
   - first:
-      213: 4550891055391789218
-    second: Pinko_Idle_SpriteSheet_15
+      213: -7761820604837378477
+    second: Cop_Enemy_Idle_SpriteSheet_15
   - first:
-      213: 4308515877970836102
-    second: Pinko_Idle_SpriteSheet_16
+      213: 1995863654335495250
+    second: Cop_Enemy_Idle_SpriteSheet_16
   - first:
-      213: 3458885831877775005
-    second: Pinko_Idle_SpriteSheet_17
+      213: 4169088833038820937
+    second: Cop_Enemy_Idle_SpriteSheet_17
   - first:
-      213: 3907308560786375556
-    second: Pinko_Idle_SpriteSheet_18
+      213: -8267067890194418869
+    second: Cop_Enemy_Idle_SpriteSheet_18
   - first:
-      213: -6575483513079752364
-    second: Pinko_Idle_SpriteSheet_19
+      213: -508726951935752049
+    second: Cop_Enemy_Idle_SpriteSheet_19
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -94,7 +94,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -157,441 +157,441 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_0
+      name: Cop_Enemy_Idle_SpriteSheet_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1500
-        width: 500
-        height: 500
+        x: 189
+        y: 1546
+        width: 191
+        height: 390
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 30f7408a91b73324c9478b27381c7a96
-      internalID: 1377228401
+      spriteID: 15003252e97f911a0800000000000000
+      internalID: -6838162300585443247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_1
+      name: Cop_Enemy_Idle_SpriteSheet_1
       rect:
         serializedVersion: 2
-        x: 500
-        y: 1500
-        width: 500
-        height: 500
+        x: 689
+        y: 1546
+        width: 191
+        height: 390
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e720cf083dc031e40a424004fe4b331f
-      internalID: -1430731854
+      spriteID: 479562fab39284bc0800000000000000
+      internalID: -3798740949368678028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_2
+      name: Cop_Enemy_Idle_SpriteSheet_2
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 1500
-        width: 500
-        height: 500
+        x: 1189
+        y: 1546
+        width: 191
+        height: 390
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: de457e2f2475f5c41a9fec9de69f8a8c
-      internalID: 1472859384
+      spriteID: 09a72d89b49afab70800000000000000
+      internalID: 8912528329741073040
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_3
+      name: Cop_Enemy_Idle_SpriteSheet_3
       rect:
         serializedVersion: 2
-        x: 1500
-        y: 1500
-        width: 500
-        height: 500
+        x: 1689
+        y: 1546
+        width: 191
+        height: 390
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 98e3e0f3e0abeb1489a47665ffb4fe74
-      internalID: 198978436
+      spriteID: 7163af82f9817ba70800000000000000
+      internalID: 8842563465231611415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_4
+      name: Cop_Enemy_Idle_SpriteSheet_4
       rect:
         serializedVersion: 2
-        x: 2000
-        y: 1500
-        width: 500
-        height: 500
+        x: 2189
+        y: 1546
+        width: 191
+        height: 390
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 415852c15af8d3843acdcf4892c59c37
-      internalID: -1227290209
+      spriteID: 57d28e14cf3dbc580800000000000000
+      internalID: -8805711566001918603
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_5
+      name: Cop_Enemy_Idle_SpriteSheet_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1000
-        width: 500
-        height: 500
+        x: 189
+        y: 1046
+        width: 191
+        height: 390
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a6ce73226eedaa4488bb4d965d8a8a43
-      internalID: -1226868007
+      spriteID: dd06e42af19d34b50800000000000000
+      internalID: 6576338610781315293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_6
+      name: Cop_Enemy_Idle_SpriteSheet_6
       rect:
         serializedVersion: 2
-        x: 500
-        y: 1000
-        width: 500
-        height: 500
+        x: 694
+        y: 1046
+        width: 186
+        height: 383
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 87988eb67e926ae48a2e5fcef77a1dc3
-      internalID: 544830944
+      spriteID: bee8d0b3a2c1dcd80800000000000000
+      internalID: -8228889976431079701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_7
+      name: Cop_Enemy_Idle_SpriteSheet_7
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 1000
-        width: 500
-        height: 500
+        x: 1194
+        y: 1046
+        width: 186
+        height: 383
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 41bc2eaaa1659014cad7274c99a237f6
-      internalID: -880104773
+      spriteID: 976c8dd1f8e5efc10800000000000000
+      internalID: 2089211245920568953
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_8
+      name: Cop_Enemy_Idle_SpriteSheet_8
       rect:
         serializedVersion: 2
-        x: 1500
-        y: 1000
-        width: 500
-        height: 500
+        x: 1695
+        y: 1046
+        width: 184
+        height: 384
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 592c58fd1b15a524cb7e63c7ff213f0a
-      internalID: 1592346131
+      spriteID: f1682fc2240925560800000000000000
+      internalID: 7301056559817328159
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_9
+      name: Cop_Enemy_Idle_SpriteSheet_9
       rect:
         serializedVersion: 2
-        x: 2000
-        y: 1000
-        width: 500
-        height: 500
+        x: 2195
+        y: 1046
+        width: 184
+        height: 384
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 14d703330ba6a34448957fcce69189a6
-      internalID: -1909680041
+      spriteID: da0612af7560aaa70800000000000000
+      internalID: 8838884193596432557
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_10
+      name: Cop_Enemy_Idle_SpriteSheet_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 500
-        width: 500
-        height: 500
+        x: 195
+        y: 546
+        width: 186
+        height: 390
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 08068388c74b84a47b44c370203b92b5
-      internalID: -192753219
+      spriteID: 41df3b4f3ff2514a0800000000000000
+      internalID: -6623334952149451500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_11
+      name: Cop_Enemy_Idle_SpriteSheet_11
       rect:
         serializedVersion: 2
-        x: 500
-        y: 500
-        width: 500
-        height: 500
+        x: 695
+        y: 546
+        width: 186
+        height: 390
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4070e719f8baf7449b777e65556dde8c
-      internalID: 527378139
+      spriteID: 6803fcb54be64eac0800000000000000
+      internalID: -3826812062444605306
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_12
+      name: Cop_Enemy_Idle_SpriteSheet_12
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 500
-        width: 500
-        height: 500
+        x: 1195
+        y: 546
+        width: 186
+        height: 390
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: cd43780409a292a4f8692c415501989f
-      internalID: -570265358
+      spriteID: 72117f8908b6a2f90800000000000000
+      internalID: -6977646472590847705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_13
+      name: Cop_Enemy_Idle_SpriteSheet_13
       rect:
         serializedVersion: 2
-        x: 1500
-        y: 500
-        width: 500
-        height: 500
+        x: 1695
+        y: 546
+        width: 186
+        height: 390
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7be0fabdf91dbe744a697c81da0055e3
-      internalID: -784572467
+      spriteID: cd500860d50c0e790800000000000000
+      internalID: -7502785473425701412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_14
+      name: Cop_Enemy_Idle_SpriteSheet_14
       rect:
         serializedVersion: 2
-        x: 2000
-        y: 500
-        width: 500
-        height: 500
+        x: 2195
+        y: 546
+        width: 186
+        height: 390
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 37bc6076910b86249984caa0a02e4bbc
-      internalID: 985966377
+      spriteID: 1efe6c5d2799721f0800000000000000
+      internalID: -1069717667985297439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_15
+      name: Cop_Enemy_Idle_SpriteSheet_15
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 500
-        height: 500
+        x: 195
+        y: 46
+        width: 186
+        height: 390
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 385189df18bce394ba0d07f2dbb08d28
-      internalID: 993916476
+      spriteID: 3564c56a849784490800000000000000
+      internalID: -7761820604837378477
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_16
+      name: Cop_Enemy_Idle_SpriteSheet_16
       rect:
         serializedVersion: 2
-        x: 500
-        y: 0
-        width: 500
-        height: 500
+        x: 695
+        y: 46
+        width: 184
+        height: 384
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4d00c6027f2674643b07da1ee80c91e0
-      internalID: 1292979162
+      spriteID: 25cb7c84b6bb2bb10800000000000000
+      internalID: 1995863654335495250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_17
+      name: Cop_Enemy_Idle_SpriteSheet_17
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 0
-        width: 500
-        height: 500
+        x: 1195
+        y: 46
+        width: 184
+        height: 384
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 745db6fdc869ab3409813ec34e31203b
-      internalID: -631845093
+      spriteID: 946a35274349bd930800000000000000
+      internalID: 4169088833038820937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_18
+      name: Cop_Enemy_Idle_SpriteSheet_18
       rect:
         serializedVersion: 2
-        x: 1500
-        y: 0
-        width: 500
-        height: 500
+        x: 1694
+        y: 46
+        width: 186
+        height: 383
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6618dfe82ef24594b98b454de50979f4
-      internalID: 1262832837
+      spriteID: b437ceefd89754d80800000000000000
+      internalID: -8267067890194418869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pinko_Idle_Sheet_19
+      name: Cop_Enemy_Idle_SpriteSheet_19
       rect:
         serializedVersion: 2
-        x: 2000
-        y: 0
-        width: 500
-        height: 500
+        x: 2194
+        y: 46
+        width: 186
+        height: 383
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 737597b3b24e5204b86111d129b5db12
-      internalID: -776351619
+      spriteID: f88c3365883a0f8f0800000000000000
+      internalID: -508726951935752049
       vertices: []
       indices: 
       edges: []
@@ -600,7 +600,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f06db070e4702b64c8502110a75a3c69
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -610,26 +610,26 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Pinko_Idle_Sheet_0: 1377228401
-      Pinko_Idle_Sheet_1: -1430731854
-      Pinko_Idle_Sheet_10: -192753219
-      Pinko_Idle_Sheet_11: 527378139
-      Pinko_Idle_Sheet_12: -570265358
-      Pinko_Idle_Sheet_13: -784572467
-      Pinko_Idle_Sheet_14: 985966377
-      Pinko_Idle_Sheet_15: 993916476
-      Pinko_Idle_Sheet_16: 1292979162
-      Pinko_Idle_Sheet_17: -631845093
-      Pinko_Idle_Sheet_18: 1262832837
-      Pinko_Idle_Sheet_19: -776351619
-      Pinko_Idle_Sheet_2: 1472859384
-      Pinko_Idle_Sheet_3: 198978436
-      Pinko_Idle_Sheet_4: -1227290209
-      Pinko_Idle_Sheet_5: -1226868007
-      Pinko_Idle_Sheet_6: 544830944
-      Pinko_Idle_Sheet_7: -880104773
-      Pinko_Idle_Sheet_8: 1592346131
-      Pinko_Idle_Sheet_9: -1909680041
+      Cop_Enemy_Idle_SpriteSheet_0: -6838162300585443247
+      Cop_Enemy_Idle_SpriteSheet_1: -3798740949368678028
+      Cop_Enemy_Idle_SpriteSheet_10: -6623334952149451500
+      Cop_Enemy_Idle_SpriteSheet_11: -3826812062444605306
+      Cop_Enemy_Idle_SpriteSheet_12: -6977646472590847705
+      Cop_Enemy_Idle_SpriteSheet_13: -7502785473425701412
+      Cop_Enemy_Idle_SpriteSheet_14: -1069717667985297439
+      Cop_Enemy_Idle_SpriteSheet_15: -7761820604837378477
+      Cop_Enemy_Idle_SpriteSheet_16: 1995863654335495250
+      Cop_Enemy_Idle_SpriteSheet_17: 4169088833038820937
+      Cop_Enemy_Idle_SpriteSheet_18: -8267067890194418869
+      Cop_Enemy_Idle_SpriteSheet_19: -508726951935752049
+      Cop_Enemy_Idle_SpriteSheet_2: 8912528329741073040
+      Cop_Enemy_Idle_SpriteSheet_3: 8842563465231611415
+      Cop_Enemy_Idle_SpriteSheet_4: -8805711566001918603
+      Cop_Enemy_Idle_SpriteSheet_5: 6576338610781315293
+      Cop_Enemy_Idle_SpriteSheet_6: -8228889976431079701
+      Cop_Enemy_Idle_SpriteSheet_7: 2089211245920568953
+      Cop_Enemy_Idle_SpriteSheet_8: 7301056559817328159
+      Cop_Enemy_Idle_SpriteSheet_9: 8838884193596432557
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

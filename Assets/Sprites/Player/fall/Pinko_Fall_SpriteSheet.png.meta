@@ -102,7 +102,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 256
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -154,10 +154,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_0
       rect:
         serializedVersion: 2
-        x: 77
-        y: 1552
-        width: 258
-        height: 324
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,10 +176,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_1
       rect:
         serializedVersion: 2
-        x: 577
-        y: 1552
-        width: 258
-        height: 324
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,10 +198,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_2
       rect:
         serializedVersion: 2
-        x: 1077
-        y: 1552
-        width: 258
-        height: 324
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,10 +220,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_3
       rect:
         serializedVersion: 2
-        x: 1577
-        y: 1546
-        width: 258
-        height: 330
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +242,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_4
       rect:
         serializedVersion: 2
-        x: 2077
-        y: 1546
-        width: 258
-        height: 330
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +264,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_5
       rect:
         serializedVersion: 2
-        x: 77
-        y: 1046
-        width: 258
-        height: 330
+        x: 0
+        y: 768
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,10 +286,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_6
       rect:
         serializedVersion: 2
-        x: 577
-        y: 1045
-        width: 258
-        height: 331
+        x: 256
+        y: 768
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +308,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_7
       rect:
         serializedVersion: 2
-        x: 1077
-        y: 1045
-        width: 258
-        height: 331
+        x: 512
+        y: 768
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +330,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_8
       rect:
         serializedVersion: 2
-        x: 1577
-        y: 1045
-        width: 258
-        height: 331
+        x: 768
+        y: 768
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +352,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_9
       rect:
         serializedVersion: 2
-        x: 2077
-        y: 1052
-        width: 258
-        height: 324
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,10 +374,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_10
       rect:
         serializedVersion: 2
-        x: 77
-        y: 552
-        width: 258
-        height: 324
+        x: 0
+        y: 512
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -396,10 +396,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_11
       rect:
         serializedVersion: 2
-        x: 577
-        y: 552
-        width: 258
-        height: 324
+        x: 256
+        y: 512
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,10 +418,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_12
       rect:
         serializedVersion: 2
-        x: 1077
-        y: 547
-        width: 258
-        height: 329
+        x: 512
+        y: 512
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,10 +440,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_13
       rect:
         serializedVersion: 2
-        x: 1577
-        y: 547
-        width: 258
-        height: 329
+        x: 768
+        y: 512
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,10 +462,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_14
       rect:
         serializedVersion: 2
-        x: 2077
-        y: 547
-        width: 258
-        height: 329
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,10 +484,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_15
       rect:
         serializedVersion: 2
-        x: 77
-        y: 45
-        width: 258
-        height: 331
+        x: 0
+        y: 256
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,10 +506,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_16
       rect:
         serializedVersion: 2
-        x: 577
-        y: 45
-        width: 258
-        height: 331
+        x: 256
+        y: 256
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,10 +528,10 @@ TextureImporter:
       name: Pinko_Fall_SpriteSheet_17
       rect:
         serializedVersion: 2
-        x: 1077
-        y: 45
-        width: 258
-        height: 331
+        x: 512
+        y: 256
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -550,7 +550,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: da09e40fca3c0c847829986ecf5a221a
     internalID: 0
     vertices: []
     indices: 

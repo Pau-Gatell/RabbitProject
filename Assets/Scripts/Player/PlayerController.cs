@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
     public float ceilDistance = 1f;
     public float gravity = 2f;
     public int maxJumps = 2;
+    public int maxLives = 3;
 
     public Animator cAnimator;
     public SpriteRenderer cRenderer;
