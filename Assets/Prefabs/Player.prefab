@@ -9,9 +9,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8485433807149383905}
+  - component: {fileID: 7199731269676912458}
   - component: {fileID: 7158674778641773490}
   - component: {fileID: 5882889628281576426}
-  - component: {fileID: 7199731269676912458}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -35,6 +35,28 @@ Transform:
   - {fileID: 8130272659179727275}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7199731269676912458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 78891844530407693}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc61d2acc785ae44089c80871c55ee4b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
+  jumpForce: 10
+  ceilDistance: 1
+  gravity: 2
+  maxJumps: 100
+  maxLives: 3
+  cAnimator: {fileID: 3483145326026788520}
+  cRenderer: {fileID: 6673413189984173722}
+  cRigidbody: {fileID: 5882889628281576426}
+  cCollider: {fileID: 7158674778641773490}
 --- !u!70 &7158674778641773490
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -70,7 +92,7 @@ CapsuleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 12.9}
-  m_Size: {x: 2.3, y: 3.3}
+  m_Size: {x: 0.45, y: 0.7}
   m_Direction: 0
 --- !u!50 &5882889628281576426
 Rigidbody2D:
@@ -99,27 +121,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!114 &7199731269676912458
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 78891844530407693}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc61d2acc785ae44089c80871c55ee4b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 5
-  jumpForce: 10
-  ceilDistance: 1
-  gravity: 2
-  maxJumps: 100
-  cAnimator: {fileID: 3483145326026788520}
-  cRenderer: {fileID: 6673413189984173722}
-  cRigidbody: {fileID: 5882889628281576426}
-  cCollider: {fileID: 7158674778641773490}
 --- !u!1 &2424513048896082344
 GameObject:
   m_ObjectHideFlags: 0
@@ -147,7 +148,7 @@ Transform:
   m_GameObject: {fileID: 2424513048896082344}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 12.7, z: 0}
+  m_LocalPosition: {x: -0, y: 12.95, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -197,7 +198,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 367782695014271227, guid: 8e1e3a5ce5a66714a8d863fd02e3ba0a, type: 3}
+  m_Sprite: {fileID: 1299433707, guid: 4ba36ee477aa8fb47ae4cb665653c9fb, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
