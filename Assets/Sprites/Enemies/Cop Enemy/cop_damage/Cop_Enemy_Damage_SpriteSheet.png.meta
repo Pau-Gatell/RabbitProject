@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 8e915b1b8fb9f0b418382e86adf9cf39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7290274289331537085
+    second: Cop_Enemy_Damage_SpriteSheet_0
+  - first:
+      213: -2665446613698279085
+    second: Cop_Enemy_Damage_SpriteSheet_1
+  - first:
+      213: -2784102827009402896
+    second: Cop_Enemy_Damage_SpriteSheet_2
+  - first:
+      213: -180509467948022675
+    second: Cop_Enemy_Damage_SpriteSheet_3
+  - first:
+      213: 2164338928473096903
+    second: Cop_Enemy_Damage_SpriteSheet_4
+  - first:
+      213: -8879013444699590286
+    second: Cop_Enemy_Damage_SpriteSheet_5
+  - first:
+      213: 1476055309385741992
+    second: Cop_Enemy_Damage_SpriteSheet_6
+  - first:
+      213: -6175065996288243693
+    second: Cop_Enemy_Damage_SpriteSheet_7
+  - first:
+      213: 4311597333242888314
+    second: Cop_Enemy_Damage_SpriteSheet_8
+  - first:
+      213: 6471559840143409843
+    second: Cop_Enemy_Damage_SpriteSheet_9
+  - first:
+      213: -612706144718300560
+    second: Cop_Enemy_Damage_SpriteSheet_10
+  - first:
+      213: 541130036640156986
+    second: Cop_Enemy_Damage_SpriteSheet_11
+  - first:
+      213: 4493486456908625501
+    second: Cop_Enemy_Damage_SpriteSheet_12
+  - first:
+      213: 4973954634438169976
+    second: Cop_Enemy_Damage_SpriteSheet_13
+  - first:
+      213: 6598817765830060008
+    second: Cop_Enemy_Damage_SpriteSheet_14
+  - first:
+      213: 9004289235054601514
+    second: Cop_Enemy_Damage_SpriteSheet_15
+  - first:
+      213: -7563887051189268797
+    second: Cop_Enemy_Damage_SpriteSheet_16
+  - first:
+      213: 1224870322176304025
+    second: Cop_Enemy_Damage_SpriteSheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db405c237d14c2560800000000000000
+      internalID: 7290274289331537085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3590fbe4d6e620bd0800000000000000
+      internalID: -2665446613698279085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f791f9ca31ec59d0800000000000000
+      internalID: -2784102827009402896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d640d546893be7df0800000000000000
+      internalID: -180509467948022675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2403dc9c6490e10800000000000000
+      internalID: 2164338928473096903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27173c8a05867c480800000000000000
+      internalID: -8879013444699590286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a634c0cb700c7410800000000000000
+      internalID: 1476055309385741992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31845aa7132cd4aa0800000000000000
+      internalID: -6175065996288243693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70c6764eeed5db30800000000000000
+      internalID: 4311597333242888314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b28e6603699fc950800000000000000
+      internalID: 6471559840143409843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07add54f10b3f77f0800000000000000
+      internalID: -612706144718300560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d0b3bb6ea728700800000000000000
+      internalID: 541130036640156986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56311300221c5e30800000000000000
+      internalID: 4493486456908625501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875589a0369070540800000000000000
+      internalID: 4973954634438169976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e766d5cbc5b39b50800000000000000
+      internalID: 6598817765830060008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25ad4e3a59a5fc70800000000000000
+      internalID: 9004289235054601514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cecfa85dcca70790800000000000000
+      internalID: -7563887051189268797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cop_Enemy_Damage_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993ac31811d9ff010800000000000000
+      internalID: 1224870322176304025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e755b0471d6304744b4c66ba0e133e3a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cop_Enemy_Damage_SpriteSheet_0: 7290274289331537085
+      Cop_Enemy_Damage_SpriteSheet_1: -2665446613698279085
+      Cop_Enemy_Damage_SpriteSheet_10: -612706144718300560
+      Cop_Enemy_Damage_SpriteSheet_11: 541130036640156986
+      Cop_Enemy_Damage_SpriteSheet_12: 4493486456908625501
+      Cop_Enemy_Damage_SpriteSheet_13: 4973954634438169976
+      Cop_Enemy_Damage_SpriteSheet_14: 6598817765830060008
+      Cop_Enemy_Damage_SpriteSheet_15: 9004289235054601514
+      Cop_Enemy_Damage_SpriteSheet_16: -7563887051189268797
+      Cop_Enemy_Damage_SpriteSheet_17: 1224870322176304025
+      Cop_Enemy_Damage_SpriteSheet_2: -2784102827009402896
+      Cop_Enemy_Damage_SpriteSheet_3: -180509467948022675
+      Cop_Enemy_Damage_SpriteSheet_4: 2164338928473096903
+      Cop_Enemy_Damage_SpriteSheet_5: -8879013444699590286
+      Cop_Enemy_Damage_SpriteSheet_6: 1476055309385741992
+      Cop_Enemy_Damage_SpriteSheet_7: -6175065996288243693
+      Cop_Enemy_Damage_SpriteSheet_8: 4311597333242888314
+      Cop_Enemy_Damage_SpriteSheet_9: 6471559840143409843
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
