@@ -7148,23 +7148,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8485433807149383905, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.56808
+      value: 1.168493
       objectReference: {fileID: 0}
     - target: {fileID: 8485433807149383905, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.56808
+      value: 1.168493
       objectReference: {fileID: 0}
     - target: {fileID: 8485433807149383905, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.28404
+      value: 0.5842465
       objectReference: {fileID: 0}
     - target: {fileID: 8485433807149383905, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 388.89
+      value: 812.19
       objectReference: {fileID: 0}
     - target: {fileID: 8485433807149383905, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -64.33
+      value: -84.7
       objectReference: {fileID: 0}
     - target: {fileID: 8485433807149383905, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
       propertyPath: m_LocalPosition.z
@@ -7824,8 +7824,8 @@ Transform:
   - {fileID: 1130893781}
   - {fileID: 559005816}
   - {fileID: 1511182228}
-  - {fileID: 1191180020}
   - {fileID: 1005893821}
+  - {fileID: 1191180020}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &657355017
@@ -10814,7 +10814,7 @@ GameObject:
   - component: {fileID: 1005893823}
   - component: {fileID: 1005893822}
   m_Layer: 0
-  m_Name: PlatformBigger3NM
+  m_Name: Platform01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24370,8 +24370,8 @@ Tilemap:
   - first: {x: 933, y: -118, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 2
-      m_TileSpriteIndex: 2
+      m_TileIndex: 1
+      m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -48301,9 +48301,9 @@ Tilemap:
   m_TileAssetArray:
   - m_RefCount: 34
     m_Data: {fileID: 11400000, guid: 9a9df535ee5adb44486c62384e522b8a, type: 2}
-  - m_RefCount: 2924
+  - m_RefCount: 2925
     m_Data: {fileID: 11400000, guid: 2a451140ace8d4f49b2eeadf42860e14, type: 2}
-  - m_RefCount: 626
+  - m_RefCount: 625
     m_Data: {fileID: 11400000, guid: a1c89c2b5e628b64e8d847973a96d8e6, type: 2}
   - m_RefCount: 59
     m_Data: {fileID: 11400000, guid: 21e2e13a27bf3134fa0ffe318e960d9b, type: 2}
@@ -48312,9 +48312,9 @@ Tilemap:
   m_TileSpriteArray:
   - m_RefCount: 34
     m_Data: {fileID: 3438074885162614175, guid: ffff02be133d05f40a0576a4554b62b8, type: 3}
-  - m_RefCount: 2924
+  - m_RefCount: 2925
     m_Data: {fileID: -4274337144901266658, guid: ffff02be133d05f40a0576a4554b62b8, type: 3}
-  - m_RefCount: 626
+  - m_RefCount: 625
     m_Data: {fileID: -2685219683192727183, guid: ffff02be133d05f40a0576a4554b62b8, type: 3}
   - m_RefCount: 59
     m_Data: {fileID: -1655437424161255088, guid: ffff02be133d05f40a0576a4554b62b8, type: 3}
@@ -48462,7 +48462,7 @@ GameObject:
   - component: {fileID: 1191180022}
   - component: {fileID: 1191180021}
   m_Layer: 0
-  m_Name: PlatformBigger2NM
+  m_Name: Platform02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -49252,7 +49252,7 @@ GameObject:
   - component: {fileID: 1511182230}
   - component: {fileID: 1511182229}
   m_Layer: 0
-  m_Name: PlatformBiggerNM
+  m_Name: Platform0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
