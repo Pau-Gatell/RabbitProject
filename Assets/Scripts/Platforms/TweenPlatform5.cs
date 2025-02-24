@@ -4,20 +4,37 @@ using DG.Tweening;
 public class TweenPlatform5 : MonoBehaviour
 {
     public float speed = 5f;
-    public float delay = 2f; // Tiempo de espera en cada extremo
+    public float delay = 2f; 
     public Transform Waypoint5;
     private Vector3 initialPosition;
 
     void Start()
     {
-        initialPosition = transform.position; // Guarda la posición inicial
+        initialPosition = transform.position; 
 
-        // Creamos una secuencia de movimientos
+        
         Sequence sequence = DOTween.Sequence();
         sequence.Append(transform.DOMove(Waypoint5.position, speed).SetEase(Ease.Linear))
-                .AppendInterval(delay) // Espera cuando llega arriba
+                .AppendInterval(delay) 
                 .Append(transform.DOMove(initialPosition, speed).SetEase(Ease.Linear))
-                .AppendInterval(delay) // Espera cuando llega abajo
-                .SetLoops(-1); // Repite infinitamente
+                .AppendInterval(delay)
+                .SetLoops(-1); 
+    }
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Player")) 
+        {
+            other.transform.SetParent(transform);
+        }
+    }
+
+    
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            other.transform.SetParent(null);
+        }
     }
 }
+
