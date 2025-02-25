@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: a1e0d87ceb2cd25419c4b4c68ba11859
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8895132205287216063
+    second: Hotdog_Enemy_Idle_SpriteSheet_0
+  - first:
+      213: 4710494518695633453
+    second: Hotdog_Enemy_Idle_SpriteSheet_1
+  - first:
+      213: 3773946951979390930
+    second: Hotdog_Enemy_Idle_SpriteSheet_2
+  - first:
+      213: 1157576186640466937
+    second: Hotdog_Enemy_Idle_SpriteSheet_3
+  - first:
+      213: -893618771720944609
+    second: Hotdog_Enemy_Idle_SpriteSheet_4
+  - first:
+      213: -9168658596489549404
+    second: Hotdog_Enemy_Idle_SpriteSheet_5
+  - first:
+      213: -2225375684946549618
+    second: Hotdog_Enemy_Idle_SpriteSheet_6
+  - first:
+      213: -8801492617764587853
+    second: Hotdog_Enemy_Idle_SpriteSheet_7
+  - first:
+      213: 655349181780058713
+    second: Hotdog_Enemy_Idle_SpriteSheet_8
+  - first:
+      213: 1485211202416891519
+    second: Hotdog_Enemy_Idle_SpriteSheet_9
+  - first:
+      213: 5235776136007786409
+    second: Hotdog_Enemy_Idle_SpriteSheet_10
+  - first:
+      213: 5934122081254609537
+    second: Hotdog_Enemy_Idle_SpriteSheet_11
+  - first:
+      213: -4761014273482230155
+    second: Hotdog_Enemy_Idle_SpriteSheet_12
+  - first:
+      213: 6928170275176496888
+    second: Hotdog_Enemy_Idle_SpriteSheet_13
+  - first:
+      213: 8173194578166581866
+    second: Hotdog_Enemy_Idle_SpriteSheet_14
+  - first:
+      213: 1036089757984276549
+    second: Hotdog_Enemy_Idle_SpriteSheet_15
+  - first:
+      213: -4920562518388676536
+    second: Hotdog_Enemy_Idle_SpriteSheet_16
+  - first:
+      213: -4517490791665188476
+    second: Hotdog_Enemy_Idle_SpriteSheet_17
+  - first:
+      213: -6859635236388913283
+    second: Hotdog_Enemy_Idle_SpriteSheet_18
+  - first:
+      213: 2137414704557745904
+    second: Hotdog_Enemy_Idle_SpriteSheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1047
+        width: 145
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3184ebc9bd17b70800000000000000
+      internalID: 8895132205287216063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1047
+        width: 145
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d222747bec90f5140800000000000000
+      internalID: 4710494518695633453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1047
+        width: 145
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d756e1f1c0cf5430800000000000000
+      internalID: 3773946951979390930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1047
+        width: 145
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3082d9869801010800000000000000
+      internalID: 1157576186640466937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1047
+        width: 145
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14c3f2367a3993f0800000000000000
+      internalID: -893618771720944609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 791
+        width: 145
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9a869859162c080800000000000000
+      internalID: -9168658596489549404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 791
+        width: 147
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8428f6ea90ed11e0800000000000000
+      internalID: -2225375684946549618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 791
+        width: 147
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b63be0b811dad580800000000000000
+      internalID: -8801492617764587853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 791
+        width: 147
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952e7dfcb94481900800000000000000
+      internalID: 655349181780058713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 791
+        width: 147
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f765d7838b78c9410800000000000000
+      internalID: 1485211202416891519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 535
+        width: 148
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af1636c7a639a840800000000000000
+      internalID: 5235776136007786409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 535
+        width: 148
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1829bf2b79c3a5250800000000000000
+      internalID: 5934122081254609537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 535
+        width: 148
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576f6824eba7dedb0800000000000000
+      internalID: -4761014273482230155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 535
+        width: 148
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feb053882ec52060800000000000000
+      internalID: 6928170275176496888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 535
+        width: 148
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a84c75a250d6170800000000000000
+      internalID: 8173194578166581866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 279
+        width: 148
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540c21c352ee06e00800000000000000
+      internalID: 1036089757984276549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 279
+        width: 147
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8486754b576a6bbb0800000000000000
+      internalID: -4920562518388676536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 279
+        width: 147
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481c2b64f06ae41c0800000000000000
+      internalID: -4517490791665188476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 279
+        width: 147
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f394ea81eadc0a0800000000000000
+      internalID: -6859635236388913283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotdog_Enemy_Idle_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 279
+        width: 147
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f66cda695f99ad10800000000000000
+      internalID: 2137414704557745904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
