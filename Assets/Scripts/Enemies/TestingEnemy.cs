@@ -23,20 +23,9 @@ public class TestingEnemy : MonoBehaviour
             transform.position = Vector2.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
 
         }
-        else 
-        {
-            Attack();
-        }
-
 
         bool isPlayerRight = transform.position.x < player.transform.position.x;
         Flip(isPlayerRight);
-    }
-
-
-    private void Attack()
-    {
-        Debug.Log("Atacar");
     }
 
     private void Flip(bool isPlayerRight)

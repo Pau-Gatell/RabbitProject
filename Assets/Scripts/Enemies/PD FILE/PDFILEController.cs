@@ -4,47 +4,40 @@ using UnityEngine;
 
 public class PDFILEController : MonoBehaviour
 {
-    public barPD healthbar;
-    public Animator cAnimator;
+    public float velocity;
+    public Transform groundController;
+    public float distance;
+    public bool movementleft;
 
-    public float maxHealth = 100;
+    private Rigidbody2D rb;
 
-    private float health;
-    private SpriteRenderer spriteRenderer;
     void Start()
     {
-        health = maxHealth;
-        healthbar.UpdateHealthbar(maxHealth, health);
-        spriteRenderer = GetComponent<SpriteRenderer>();
+        rb = GetComponent<Rigidbody2D>();
     }
 
-    private void OnMouseDown()
+    private void FixedUpdate()
     {
-        StartCoroutine(getDamage());
-    }
+        RaycastHit2D informationGround = Physics2D.Raycast(groundController.position, Vector2.down, distance);
+        rb.linearVelocity = new Vector2(velocity, rb.linearVelocity.y);
 
-    IEnumerator getDamage()
-    {
-        float damageDuration = 0.1f;
-        float damage = 2f;
-        health -= damage;
-        healthbar.UpdateHealthbar(maxHealth, health);
-        if (health > 0)
+        if (informationGround == false)
         {
-            spriteRenderer.color = Color.red;
-            yield return new WaitForSeconds(damageDuration);
-            spriteRenderer.color = Color.white;
-        }
-        else
-        {
-            cAnimator.SetBool("Death", true);
-            Destroy(gameObject);
+            Back();
         }
 
     }
 
-    void Update()
+    private void Back()
     {
+        movementleft = !movementleft;
+        transform.eulerAngles = new Vector3(0, transform.eulerAngles.y + 180, 0);
+        velocity *= -1;
+    }
 
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawLine(groundController.transform.position, groundController.transform.position + Vector3.down * distance);
     }
 }
