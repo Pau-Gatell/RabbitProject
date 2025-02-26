@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class EnemyShoot : MonoBehaviour
@@ -13,7 +12,6 @@ public class EnemyShoot : MonoBehaviour
 
     void Update()
     {
-        transform.Translate(Time.deltaTime * velocity * Vector2.right);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

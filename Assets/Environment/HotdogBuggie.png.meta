@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HotdogBuggie_0: 791632739140738031
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
