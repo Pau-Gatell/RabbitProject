@@ -3,23 +3,25 @@ using UnityEngine;
 
 public class EnemyShoot : MonoBehaviour
 {
-    public float velocity;
-    public int damage;
+    public GameObject shootPrefab;
+    public float timeShoots = 10;
+
     void Start()
     {
-        
+        StartCoroutine(Shoot());
     }
 
     void Update()
     {
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    IEnumerator Shoot()
     {
-        if(TryGetComponent(out PlayerHealthController PlayerHealthController))
+        while (true)
         {
-            PlayerHealthController.Damage();
-            Destroy(gameObject);
+            yield return new WaitForSeconds(timeShoots);
+            Instantiate(shootPrefab, transform.position, Quaternion.identity);
         }
     }
+
 }

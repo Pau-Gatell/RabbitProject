@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hotdog_Enemy_Idle_SpriteSheet_0: 8895132205287216063
+      Hotdog_Enemy_Idle_SpriteSheet_1: 4710494518695633453
+      Hotdog_Enemy_Idle_SpriteSheet_10: 5235776136007786409
+      Hotdog_Enemy_Idle_SpriteSheet_11: 5934122081254609537
+      Hotdog_Enemy_Idle_SpriteSheet_12: -4761014273482230155
+      Hotdog_Enemy_Idle_SpriteSheet_13: 6928170275176496888
+      Hotdog_Enemy_Idle_SpriteSheet_14: 8173194578166581866
+      Hotdog_Enemy_Idle_SpriteSheet_15: 1036089757984276549
+      Hotdog_Enemy_Idle_SpriteSheet_16: -4920562518388676536
+      Hotdog_Enemy_Idle_SpriteSheet_17: -4517490791665188476
+      Hotdog_Enemy_Idle_SpriteSheet_18: -6859635236388913283
+      Hotdog_Enemy_Idle_SpriteSheet_19: 2137414704557745904
+      Hotdog_Enemy_Idle_SpriteSheet_2: 3773946951979390930
+      Hotdog_Enemy_Idle_SpriteSheet_3: 1157576186640466937
+      Hotdog_Enemy_Idle_SpriteSheet_4: -893618771720944609
+      Hotdog_Enemy_Idle_SpriteSheet_5: -9168658596489549404
+      Hotdog_Enemy_Idle_SpriteSheet_6: -2225375684946549618
+      Hotdog_Enemy_Idle_SpriteSheet_7: -8801492617764587853
+      Hotdog_Enemy_Idle_SpriteSheet_8: 655349181780058713
+      Hotdog_Enemy_Idle_SpriteSheet_9: 1485211202416891519
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

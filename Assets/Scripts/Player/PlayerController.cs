@@ -7,16 +7,16 @@ public class PlayerController : MonoBehaviour
     public static PlayerController INSTANCE;
 
     public float speed = 5f;
-    public float jumpForce = 10f;
+    public float jumpForce = 3f;
     public float ceilDistance = 1f;
     public float gravity = 2f;
-    public int maxJumps = 2;
-    public int maxLives = 3;
+    public int maxJumps = 1;
 
     public Animator cAnimator;
     public SpriteRenderer cRenderer;
-    public Rigidbody2D cRigidbody;
+    public Rigidbody2D cRigidbody; 
     public CapsuleCollider2D cCollider;
+    public PlayerHealthController cHealth;
 
     private Vector2 move;
     private Vector2 normal;
@@ -24,6 +24,7 @@ public class PlayerController : MonoBehaviour
 
     private bool jumpKey;
     private int jumpCount;
+    private bool crouchKey;
 
     private Vector3 m_Velocity = Vector3.zero;
 
@@ -32,9 +33,6 @@ public class PlayerController : MonoBehaviour
         INSTANCE = this;
         jumpCount = 0;
 
-        // Asegurar que Rigidbody2D tenga configuración correcta
-        cRigidbody.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
-        cRigidbody.gravityScale = gravity;
     }
 
     void Update()
@@ -64,6 +62,7 @@ public class PlayerController : MonoBehaviour
     {
         PlayerGrounded();
 
+        Vector2 dir = new Vector2(normal.y, normal.x) * move.x;
         Vector2 targetVelocity = new Vector2(move.x * speed, cRigidbody.linearVelocity.y);
         cRigidbody.linearVelocity = Vector3.SmoothDamp(cRigidbody.linearVelocity, targetVelocity, ref m_Velocity, 0.05f);
     }
@@ -71,9 +70,13 @@ public class PlayerController : MonoBehaviour
     void PlayerOrientation()
     {
         if (move.x < 0)
-            cRenderer.flipX = true;
+        {
+            transform.rotation = Quaternion.Euler(new Vector3(0, -180, 0));
+        }
         else if (move.x > 0)
-            cRenderer.flipX = false;
+        {
+            transform.rotation = Quaternion.Euler(new Vector3(0, 0, 0));
+        }
     }
 
     void PlayerGrounded()
@@ -95,5 +98,16 @@ public class PlayerController : MonoBehaviour
                 cAnimator.SetBool("Fall", true);
             }
         }
+
+        if (!hit && cRigidbody.linearVelocity.y < 0)
+        {
+            cAnimator.SetBool("Fall", true);
+            cAnimator.SetBool("Jump", false);
+        }
+        else
+        {
+            cAnimator.SetBool("Fall", false);
+        }
     }
+
 }
