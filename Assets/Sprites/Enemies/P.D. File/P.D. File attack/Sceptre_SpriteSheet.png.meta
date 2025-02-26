@@ -1,0 +1,713 @@
+fileFormatVersion: 2
+guid: de6c46054a65d47418e36ae17e86aa03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 464705793487022229
+    second: Sceptre_SpriteSheet_0
+  - first:
+      213: 318261566581862965
+    second: Sceptre_SpriteSheet_1
+  - first:
+      213: 7855164398795982624
+    second: Sceptre_SpriteSheet_2
+  - first:
+      213: 2020865437704139148
+    second: Sceptre_SpriteSheet_3
+  - first:
+      213: -4209746195163447898
+    second: Sceptre_SpriteSheet_4
+  - first:
+      213: -7104143906036582037
+    second: Sceptre_SpriteSheet_5
+  - first:
+      213: 4308570399930936887
+    second: Sceptre_SpriteSheet_6
+  - first:
+      213: 7107109115458660973
+    second: Sceptre_SpriteSheet_7
+  - first:
+      213: 1688800462241143139
+    second: Sceptre_SpriteSheet_8
+  - first:
+      213: -7265620938554489182
+    second: Sceptre_SpriteSheet_9
+  - first:
+      213: -5405177139694107105
+    second: Sceptre_SpriteSheet_10
+  - first:
+      213: -4682812526772022870
+    second: Sceptre_SpriteSheet_11
+  - first:
+      213: -5974480833481225001
+    second: Sceptre_SpriteSheet_12
+  - first:
+      213: -2089539474842109883
+    second: Sceptre_SpriteSheet_13
+  - first:
+      213: -2491008043763990776
+    second: Sceptre_SpriteSheet_14
+  - first:
+      213: -2395046575716832147
+    second: Sceptre_SpriteSheet_15
+  - first:
+      213: 1031709607265591581
+    second: Sceptre_SpriteSheet_16
+  - first:
+      213: -892827678000988758
+    second: Sceptre_SpriteSheet_17
+  - first:
+      213: 6190073132566497457
+    second: Sceptre_SpriteSheet_18
+  - first:
+      213: 4028951918754244805
+    second: Sceptre_SpriteSheet_19
+  - first:
+      213: -6030037126847291406
+    second: Sceptre_SpriteSheet_20
+  - first:
+      213: 5949122866100025568
+    second: Sceptre_SpriteSheet_21
+  - first:
+      213: 2137775560451393410
+    second: Sceptre_SpriteSheet_22
+  - first:
+      213: 7318955078392677206
+    second: Sceptre_SpriteSheet_23
+  - first:
+      213: 8475814641022459193
+    second: Sceptre_SpriteSheet_24
+  - first:
+      213: 3506523948381510762
+    second: Sceptre_SpriteSheet_25
+  - first:
+      213: -7823890579805437837
+    second: Sceptre_SpriteSheet_26
+  - first:
+      213: -5397278513828044446
+    second: Sceptre_SpriteSheet_27
+  - first:
+      213: -1055307876244933013
+    second: Sceptre_SpriteSheet_28
+  - first:
+      213: -4741364297050787876
+    second: Sceptre_SpriteSheet_29
+  - first:
+      213: 5492078436184531317
+    second: Sceptre_SpriteSheet_30
+  - first:
+      213: -1024654713804359167
+    second: Sceptre_SpriteSheet_31
+  - first:
+      213: -3421135944032667616
+    second: Sceptre_SpriteSheet_32
+  - first:
+      213: -1161195580840106606
+    second: Sceptre_SpriteSheet_33
+  - first:
+      213: -6627210194979282509
+    second: Sceptre_SpriteSheet_34
+  - first:
+      213: 2014621788596561271
+    second: Sceptre_SpriteSheet_35
+  - first:
+      213: -7665262590622627891
+    second: Sceptre_SpriteSheet_36
+  - first:
+      213: 6403912098575410072
+    second: Sceptre_SpriteSheet_37
+  - first:
+      213: 2084618394669609739
+    second: Sceptre_SpriteSheet_38
+  - first:
+      213: -7890752415074938922
+    second: Sceptre_SpriteSheet_39
+  - first:
+      213: 5314861461600663322
+    second: Sceptre_SpriteSheet_40
+  - first:
+      213: -1807393001486410561
+    second: Sceptre_SpriteSheet_41
+  - first:
+      213: -5763666657413092015
+    second: Sceptre_SpriteSheet_42
+  - first:
+      213: -4114749803196243183
+    second: Sceptre_SpriteSheet_43
+  - first:
+      213: 2159032383136534992
+    second: Sceptre_SpriteSheet_44
+  - first:
+      213: 3081708439210020462
+    second: Sceptre_SpriteSheet_45
+  - first:
+      213: -1756161683362847511
+    second: Sceptre_SpriteSheet_46
+  - first:
+      213: -1016730072873356194
+    second: Sceptre_SpriteSheet_47
+  - first:
+      213: -5909240830859785822
+    second: Sceptre_SpriteSheet_48
+  - first:
+      213: 8598936417203113813
+    second: Sceptre_SpriteSheet_49
+  - first:
+      213: 5195234485562412622
+    second: Sceptre_SpriteSheet_50
+  - first:
+      213: -225200367647652424
+    second: Sceptre_SpriteSheet_51
+  - first:
+      213: 4353214676576266174
+    second: Sceptre_SpriteSheet_52
+  - first:
+      213: -6066992736217231321
+    second: Sceptre_SpriteSheet_53
+  - first:
+      213: 2037697824436308007
+    second: Sceptre_SpriteSheet_54
+  - first:
+      213: 7816810301647493251
+    second: Sceptre_SpriteSheet_55
+  - first:
+      213: -6802080507953614726
+    second: Sceptre_SpriteSheet_56
+  - first:
+      213: -7054134386284930808
+    second: Sceptre_SpriteSheet_57
+  - first:
+      213: 8104498707935355226
+    second: Sceptre_SpriteSheet_58
+  - first:
+      213: -3464291222231049680
+    second: Sceptre_SpriteSheet_59
+  - first:
+      213: 3472505536754111235
+    second: Sceptre_SpriteSheet_60
+  - first:
+      213: -5638299806547967764
+    second: Sceptre_SpriteSheet_61
+  - first:
+      213: -7648612609088522782
+    second: Sceptre_SpriteSheet_62
+  - first:
+      213: -6379915503878490182
+    second: Sceptre_SpriteSheet_63
+  - first:
+      213: -3771377133288146460
+    second: Sceptre_SpriteSheet_64
+  - first:
+      213: -4511134624626438305
+    second: Sceptre_SpriteSheet_65
+  - first:
+      213: 9200306948391924559
+    second: Sceptre_SpriteSheet_66
+  - first:
+      213: 1302753925117396166
+    second: Sceptre_SpriteSheet_67
+  - first:
+      213: -8370941326365953989
+    second: Sceptre_SpriteSheet_68
+  - first:
+      213: -2963818308481165502
+    second: Sceptre_SpriteSheet_69
+  - first:
+      213: 1953132362218064266
+    second: Sceptre_SpriteSheet_70
+  - first:
+      213: -5567542647108436900
+    second: Sceptre_SpriteSheet_71
+  - first:
+      213: 7074730025944741234
+    second: Sceptre_SpriteSheet_72
+  - first:
+      213: -6236931390674156785
+    second: Sceptre_SpriteSheet_73
+  - first:
+      213: -4115615188488388727
+    second: Sceptre_SpriteSheet_74
+  - first:
+      213: -4256936587485065052
+    second: Sceptre_SpriteSheet_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sceptre_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5982cd10577f27600800000000000000
+      internalID: 464705793487022229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptre_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53275c56531ba6400800000000000000
+      internalID: 318261566581862965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptre_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027878af666230d60800000000000000
+      internalID: 7855164398795982624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptre_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c813839986e8b0c10800000000000000
+      internalID: 2020865437704139148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptre_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adfab2c32af395c0800000000000000
+      internalID: -4209746195163447898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptre_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69fe6fb1c2096d90800000000000000
+      internalID: -7104143906036582037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptre_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e65a173fd1bcb30800000000000000
+      internalID: 4308570399930936887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptre_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aaaded51681a260800000000000000
+      internalID: 7107109115458660973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptre_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3691660a213df6710800000000000000
+      internalID: 1688800462241143139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptre_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6c1d450445b2b90800000000000000
+      internalID: -7265620938554489182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptre_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1688708704fcf4b0800000000000000
+      internalID: -5405177139694107105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptre_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1110841de430fb0800000000000000
+      internalID: -4682812526772022870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptre_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcc8fa0651661da0800000000000000
+      internalID: -5974480833481225001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptre_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54831e12be67003e0800000000000000
+      internalID: -2089539474842109883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptre_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f7ec2d1692e6dd0800000000000000
+      internalID: -2491008043763990776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sceptre_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ce1e134d513ced0800000000000000
+      internalID: -2395046575716832147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 17379ad3ca59869429da61bc99b6a2b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sceptre_SpriteSheet_0: 464705793487022229
+      Sceptre_SpriteSheet_1: 318261566581862965
+      Sceptre_SpriteSheet_10: -5405177139694107105
+      Sceptre_SpriteSheet_11: -4682812526772022870
+      Sceptre_SpriteSheet_12: -5974480833481225001
+      Sceptre_SpriteSheet_13: -2089539474842109883
+      Sceptre_SpriteSheet_14: -2491008043763990776
+      Sceptre_SpriteSheet_15: -2395046575716832147
+      Sceptre_SpriteSheet_2: 7855164398795982624
+      Sceptre_SpriteSheet_3: 2020865437704139148
+      Sceptre_SpriteSheet_4: -4209746195163447898
+      Sceptre_SpriteSheet_5: -7104143906036582037
+      Sceptre_SpriteSheet_6: 4308570399930936887
+      Sceptre_SpriteSheet_7: 7107109115458660973
+      Sceptre_SpriteSheet_8: 1688800462241143139
+      Sceptre_SpriteSheet_9: -7265620938554489182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

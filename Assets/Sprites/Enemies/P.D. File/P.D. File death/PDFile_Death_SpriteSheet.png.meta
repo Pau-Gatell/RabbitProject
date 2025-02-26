@@ -1,0 +1,1065 @@
+fileFormatVersion: 2
+guid: c21c83ddf268dc64797c2fd846ebfcf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8788608661969088371
+    second: PDFile_Death_SpriteSheet_0
+  - first:
+      213: -3376034415653703124
+    second: PDFile_Death_SpriteSheet_1
+  - first:
+      213: -789293608484384390
+    second: PDFile_Death_SpriteSheet_2
+  - first:
+      213: -4587221618719091864
+    second: PDFile_Death_SpriteSheet_3
+  - first:
+      213: 3986853579471814703
+    second: PDFile_Death_SpriteSheet_4
+  - first:
+      213: -5339478304804809894
+    second: PDFile_Death_SpriteSheet_5
+  - first:
+      213: -1536228215968131538
+    second: PDFile_Death_SpriteSheet_6
+  - first:
+      213: -7941582768043239158
+    second: PDFile_Death_SpriteSheet_7
+  - first:
+      213: -942076837629370735
+    second: PDFile_Death_SpriteSheet_8
+  - first:
+      213: 3312120369043240602
+    second: PDFile_Death_SpriteSheet_9
+  - first:
+      213: 3236275179637494201
+    second: PDFile_Death_SpriteSheet_10
+  - first:
+      213: -4459134047451019265
+    second: PDFile_Death_SpriteSheet_11
+  - first:
+      213: 5123897851979774292
+    second: PDFile_Death_SpriteSheet_12
+  - first:
+      213: -3073904722864502220
+    second: PDFile_Death_SpriteSheet_13
+  - first:
+      213: 2882294969127206356
+    second: PDFile_Death_SpriteSheet_14
+  - first:
+      213: 6789653369077695392
+    second: PDFile_Death_SpriteSheet_15
+  - first:
+      213: -8623563079821607027
+    second: PDFile_Death_SpriteSheet_16
+  - first:
+      213: 4327118836531310327
+    second: PDFile_Death_SpriteSheet_17
+  - first:
+      213: 2620432353222428085
+    second: PDFile_Death_SpriteSheet_18
+  - first:
+      213: -4488639558488537427
+    second: PDFile_Death_SpriteSheet_19
+  - first:
+      213: -6437360480778613253
+    second: PDFile_Death_SpriteSheet_20
+  - first:
+      213: 5306012459224572846
+    second: PDFile_Death_SpriteSheet_21
+  - first:
+      213: -3204555247395489344
+    second: PDFile_Death_SpriteSheet_22
+  - first:
+      213: -1276026406149689177
+    second: PDFile_Death_SpriteSheet_23
+  - first:
+      213: 4086883194300522647
+    second: PDFile_Death_SpriteSheet_24
+  - first:
+      213: -5899181280594104428
+    second: PDFile_Death_SpriteSheet_25
+  - first:
+      213: 5270526512329170708
+    second: PDFile_Death_SpriteSheet_26
+  - first:
+      213: 981822637012801783
+    second: PDFile_Death_SpriteSheet_27
+  - first:
+      213: 3610555995852408089
+    second: PDFile_Death_SpriteSheet_28
+  - first:
+      213: -8959075495412213800
+    second: PDFile_Death_SpriteSheet_29
+  - first:
+      213: -6211609715207552516
+    second: PDFile_Death_SpriteSheet_30
+  - first:
+      213: 1114893267773808327
+    second: PDFile_Death_SpriteSheet_31
+  - first:
+      213: -2389199153498333339
+    second: PDFile_Death_SpriteSheet_32
+  - first:
+      213: -2108064738143760484
+    second: PDFile_Death_SpriteSheet_33
+  - first:
+      213: 9158265689239324337
+    second: PDFile_Death_SpriteSheet_34
+  - first:
+      213: 8538813062314378643
+    second: PDFile_Death_SpriteSheet_35
+  - first:
+      213: -6019517590579316702
+    second: PDFile_Death_SpriteSheet_36
+  - first:
+      213: -3922126010911487181
+    second: PDFile_Death_SpriteSheet_37
+  - first:
+      213: -861629959951815723
+    second: PDFile_Death_SpriteSheet_38
+  - first:
+      213: 8474169664832983376
+    second: PDFile_Death_SpriteSheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fa696930967f970800000000000000
+      internalID: 8788608661969088371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22b771069ae521d0800000000000000
+      internalID: -3376034415653703124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a715dca15addb05f0800000000000000
+      internalID: -789293608484384390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863914eed3ae650c0800000000000000
+      internalID: -4587221618719091864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2089ef0536245730800000000000000
+      internalID: 3986853579471814703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53543485cc56e5b0800000000000000
+      internalID: -5339478304804809894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26994da3983eaae0800000000000000
+      internalID: -1536228215968131538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a095b6c7c84d9c190800000000000000
+      internalID: -7941582768043239158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e5af58b121de2f0800000000000000
+      internalID: -942076837629370735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9678226de307fd20800000000000000
+      internalID: 3312120369043240602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1d4bd112f89ec20800000000000000
+      internalID: 3236275179637494201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff705d79539fd12c0800000000000000
+      internalID: -4459134047451019265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45934a4e2fdbb1740800000000000000
+      internalID: 5123897851979774292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a0448d0fb4755d0800000000000000
+      internalID: -3073904722864502220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddf8bcd008fff720800000000000000
+      internalID: 2882294969127206356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a309eb14c1b93e50800000000000000
+      internalID: 6789653369077695392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f3f098113f25880800000000000000
+      internalID: -8623563079821607027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fea950e7a30d0c30800000000000000
+      internalID: 4327118836531310327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b583c37755ad5420800000000000000
+      internalID: 2620432353222428085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da646877a1625b1c0800000000000000
+      internalID: -4488639558488537427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd8d04dfb6e9a6a0800000000000000
+      internalID: -6437360480778613253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3a0ed183eb2a940800000000000000
+      internalID: 5306012459224572846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9b0ef1bf12783d0800000000000000
+      internalID: -3204555247395489344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0fd698eb4aa4ee0800000000000000
+      internalID: -1276026406149689177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790ebcaac9687b830800000000000000
+      internalID: 4086883194300522647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fed8861e5e12ea0800000000000000
+      internalID: -5899181280594104428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f98a240fba42940800000000000000
+      internalID: 5270526512329170708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8d5978c7220ad00800000000000000
+      internalID: 981822637012801783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91580767c854b1230800000000000000
+      internalID: 3610555995852408089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d75c0cdd48faa380800000000000000
+      internalID: -8959075495412213800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf140b1efddebc9a0800000000000000
+      internalID: -6211609715207552516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ced1242585e87f00800000000000000
+      internalID: 1114893267773808327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f5116470cd7ded0800000000000000
+      internalID: -2389199153498333339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f0a672a46aeb2e0800000000000000
+      internalID: -2108064738143760484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b602cd2f12b81f70800000000000000
+      internalID: 9158265689239324337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PDFile_Death_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395c6b65d35ff7670800000000000000
+      internalID: 8538813062314378643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d0caa73ff51e3fe4cb61338a3cc11014
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PDFile_Death_SpriteSheet_0: 8788608661969088371
+      PDFile_Death_SpriteSheet_1: -3376034415653703124
+      PDFile_Death_SpriteSheet_10: 3236275179637494201
+      PDFile_Death_SpriteSheet_11: -4459134047451019265
+      PDFile_Death_SpriteSheet_12: 5123897851979774292
+      PDFile_Death_SpriteSheet_13: -3073904722864502220
+      PDFile_Death_SpriteSheet_14: 2882294969127206356
+      PDFile_Death_SpriteSheet_15: 6789653369077695392
+      PDFile_Death_SpriteSheet_16: -8623563079821607027
+      PDFile_Death_SpriteSheet_17: 4327118836531310327
+      PDFile_Death_SpriteSheet_18: 2620432353222428085
+      PDFile_Death_SpriteSheet_19: -4488639558488537427
+      PDFile_Death_SpriteSheet_2: -789293608484384390
+      PDFile_Death_SpriteSheet_20: -6437360480778613253
+      PDFile_Death_SpriteSheet_21: 5306012459224572846
+      PDFile_Death_SpriteSheet_22: -3204555247395489344
+      PDFile_Death_SpriteSheet_23: -1276026406149689177
+      PDFile_Death_SpriteSheet_24: 4086883194300522647
+      PDFile_Death_SpriteSheet_25: -5899181280594104428
+      PDFile_Death_SpriteSheet_26: 5270526512329170708
+      PDFile_Death_SpriteSheet_27: 981822637012801783
+      PDFile_Death_SpriteSheet_28: 3610555995852408089
+      PDFile_Death_SpriteSheet_29: -8959075495412213800
+      PDFile_Death_SpriteSheet_3: -4587221618719091864
+      PDFile_Death_SpriteSheet_30: -6211609715207552516
+      PDFile_Death_SpriteSheet_31: 1114893267773808327
+      PDFile_Death_SpriteSheet_32: -2389199153498333339
+      PDFile_Death_SpriteSheet_33: -2108064738143760484
+      PDFile_Death_SpriteSheet_34: 9158265689239324337
+      PDFile_Death_SpriteSheet_35: 8538813062314378643
+      PDFile_Death_SpriteSheet_4: 3986853579471814703
+      PDFile_Death_SpriteSheet_5: -5339478304804809894
+      PDFile_Death_SpriteSheet_6: -1536228215968131538
+      PDFile_Death_SpriteSheet_7: -7941582768043239158
+      PDFile_Death_SpriteSheet_8: -942076837629370735
+      PDFile_Death_SpriteSheet_9: 3312120369043240602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
