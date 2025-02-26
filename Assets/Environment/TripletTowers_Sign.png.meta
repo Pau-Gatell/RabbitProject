@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TripletTowers_Sign_0: -3765097877980285671
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
