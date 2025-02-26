@@ -9,6 +9,8 @@ public class Enemiy : MonoBehaviour
     public float distance;
     public bool movementleft;
 
+    private bool grounded;
+
     private Rigidbody2D rb;
 
         void Start()
@@ -18,11 +20,15 @@ public class Enemiy : MonoBehaviour
 
     private void FixedUpdate()
     {
-        RaycastHit2D informationGround = Physics2D.Raycast(groundController.position, Vector2.down, distance);
-        rb.linearVelocity = new Vector2(velocity, rb.linearVelocity.y);
+        RaycastHit2D informationBorder = Physics2D.Raycast(groundController.position, Vector2.down, distance, LayerMask.GetMask("Environment"));
+        RaycastHit2D informationGrounded = Physics2D.Raycast(transform.position, Vector2.down, distance, LayerMask.GetMask("Environment"));
 
-        if (informationGround == false)
+        rb.linearVelocity = new Vector2(velocity, rb.linearVelocity.y);
+        Debug.Log("Patrullando");
+
+        if (informationBorder == false && informationGrounded == true)
         {
+            //Debug.Log("Patrullando");
             Back();
         }
 
@@ -40,5 +46,15 @@ public class Enemiy : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawLine(groundController.transform.position, groundController.transform.position + Vector3.down * distance);
     }
+
+    //void OnCollisionStay2D(Collision2D collision)
+    //{
+    //    grounded = true;
+    //}
+
+    //private void OnCollisionExit2D(Collision2D collision)
+    //{
+    //    grounded = false;
+    //}
 }
 
