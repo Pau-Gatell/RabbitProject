@@ -98,6 +98,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6875015808889380630}
   - component: {fileID: 1256158768823859211}
+  - component: {fileID: 1570935542605500652}
   m_Layer: 0
   m_Name: shooting
   m_TagString: Untagged
@@ -132,5 +133,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 886d5fe717edc1647aa190fcb49189e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shootPrefab: {fileID: 8376848730276096014, guid: 0c8de9933a02ce14bbf9ac0d2bb31948, type: 3}
+  shootPrefab: {fileID: 8376848730276096014, guid: 245e8387a72d7264c87806c06c1fbdb0, type: 3}
   timeShoots: 6
+--- !u!114 &1570935542605500652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8633851217658808793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e47a416aa80f74fa97ad31754948b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageForce: 5
