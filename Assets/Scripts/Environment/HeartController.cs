@@ -4,14 +4,16 @@ using UnityEngine;
 
 public class CherryController : MonoBehaviour
 {
+    // Start is called before the first frame update
     void Start()
     {
-
+        
     }
 
+    // Update is called once per frame
     void Update()
     {
-
+        
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -21,6 +23,6 @@ public class CherryController : MonoBehaviour
 
         Debug.Log(collision.name);
 
-        Destroy(this.gameObject); 
+        Destroy(this.gameObject); // Destroy the whole object using this.
     }
 }

@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -14,7 +14,7 @@ public class PlayerController : MonoBehaviour
 
     public Animator cAnimator;
     public SpriteRenderer cRenderer;
-    public Rigidbody2D cRigidbody;
+    public Rigidbody2D cRigidbody; 
     public CapsuleCollider2D cCollider;
     public PlayerHealthController cHealth;
 
@@ -32,6 +32,7 @@ public class PlayerController : MonoBehaviour
     {
         INSTANCE = this;
         jumpCount = 0;
+
     }
 
     void Update()
@@ -41,14 +42,12 @@ public class PlayerController : MonoBehaviour
 
         jumpKey = Input.GetKeyDown(KeyCode.W);
 
-        if (jumpKey && (grounded || jumpCount < maxJumps))
+        if (jumpKey && jumpCount < maxJumps)
         {
             cRigidbody.linearVelocity = new Vector2(cRigidbody.linearVelocity.x, 0);
             cRigidbody.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
 
             jumpCount++;
-            grounded = false;
-            transform.SetParent(null); // Al saltar, nos aseguramos de que el player no siga ligado a la plataforma.
             cAnimator.SetBool("Jump", true);
 
             Debug.Log($"Jump {jumpCount}");
@@ -82,11 +81,9 @@ public class PlayerController : MonoBehaviour
 
     void PlayerGrounded()
     {
-        LayerMask groundMask = LayerMask.GetMask("Environment", "MovingPlatform");
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, 2.5f, LayerMask.GetMask("Environment"));
 
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, 2.5f, groundMask);
-
-        if (hit.collider != null)
+        if (hit.collider != null) // Verifica que haya contacto con el suelo
         {
             grounded = true;
             jumpCount = 0;
@@ -113,21 +110,4 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    // ✅ Cuando el player pisa una plataforma, se hace hijo de ella.
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.CompareTag("MovingPlatform")) // Asegúrate de que la plataforma tenga el tag "MovingPlatform"
-        {
-            transform.SetParent(other.transform);
-        }
-    }
-
-    // ✅ Cuando el player sale de la plataforma, deja de ser hijo.
-    private void OnTriggerExit2D(Collider2D other)
-    {
-        if (other.CompareTag("MovingPlatform"))
-        {
-            transform.SetParent(null);
-        }
-    }
 }

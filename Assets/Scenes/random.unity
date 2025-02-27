@@ -403,10 +403,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 78891844530407693, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
-      insertIndex: 2
-      addedObject: {fileID: 557089000}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
 --- !u!1 &145274932
 GameObject:
@@ -1092,27 +1089,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &557088997 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 78891844530407693, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
-  m_PrefabInstance: {fileID: 119401104}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &557089000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 557088997}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 887b45e5e120bda40b04963e38ef568d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  barraDeVida: {fileID: 162399049}
-  maxLives: 3
-  lives: 0
-  dmgDelay: 0.5
 --- !u!4 &557089002 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8485433807149383905, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
@@ -40406,7 +40382,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.57, y: 3.63}
+    oldSize: {x: 1.0039062, y: 1.4179688}
     newSize: {x: 2.57, y: 3.63}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
