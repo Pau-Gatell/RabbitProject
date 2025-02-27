@@ -6216,6 +6216,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 78891844530407693, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1523306703}
+    - targetCorrespondingSourceObject: {fileID: 78891844530407693, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1523306704}
   m_SourcePrefab: {fileID: 100100000, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
 --- !u!1 &423266444
 GameObject:
@@ -23660,16 +23663,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc61d2acc785ae44089c80871c55ee4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  jumpForce: 10
-  ceilDistance: 1
-  gravity: 2
-  maxJumps: 1
-  cAnimator: {fileID: 2071346118}
-  cRenderer: {fileID: 2071346119}
-  cRigidbody: {fileID: 1523306700}
-  cCollider: {fileID: 1523306701}
-  cHealth: {fileID: 0}
 --- !u!114 &1523306703
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23686,6 +23679,28 @@ MonoBehaviour:
   maxLives: 3
   lives: 0
   dmgDelay: 0.5
+--- !u!114 &1523306704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1523306699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb16ed48ec72d3e43a9506d85d7de621, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
+  jumpForce: 10
+  ceilDistance: 1
+  gravity: 2
+  maxJumps: 1
+  cAnimator: {fileID: 2071346118}
+  cRenderer: {fileID: 2071346119}
+  cRigidbody: {fileID: 1523306700}
+  cCollider: {fileID: 1523306701}
+  cHealth: {fileID: 1523306703}
 --- !u!1 &1528865472
 GameObject:
   m_ObjectHideFlags: 0
