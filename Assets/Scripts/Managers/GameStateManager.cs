@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+// Gamestate pattern
 public class GameStateManager : MonoBehaviour
 {
     public static GameStateManager INSTANCE;
@@ -16,6 +17,7 @@ public class GameStateManager : MonoBehaviour
         WIN,
         OVER,
         OPTIONS,
+        LOAD,
         PAUSE
     }
 
@@ -26,6 +28,7 @@ public class GameStateManager : MonoBehaviour
 
     }
 
+    // Start is called before the first frame update
     void Start()
     {
         INSTANCE = this;
@@ -41,6 +44,7 @@ public class GameStateManager : MonoBehaviour
         ChangeState((GameState)state);
     }
 
+    // Method to change current gamestate
     public void ChangeState(GameState state)
     {
         Debug.Log("Gamestate changed: " + state);
@@ -69,6 +73,8 @@ public class GameStateManager : MonoBehaviour
             case GameState.OPTIONS: break;
             case GameState.OVER:
                 break;
+            case GameState.LOAD:
+                break;
             case GameState.PAUSE:
                 {
                     if (Input.GetKeyDown(KeyCode.Escape))
@@ -83,10 +89,10 @@ public class GameStateManager : MonoBehaviour
 
     public void OnEnterState(GameState state)
     {
-        switch (state)
+        switch(state)
         {
             case GameState.GAMEPLAY:
-                {
+                {            
                     UIHealth healthUI = FindObjectOfType<UIHealth>(true);
                     healthUI.gameObject.SetActive(true);
                 }
@@ -112,6 +118,12 @@ public class GameStateManager : MonoBehaviour
                     menu.gameObject.SetActive(true);
 
                     Time.timeScale = 0;
+                }
+                break;
+            case GameState.LOAD:
+                {
+                    //UIPauseMenu menu = FindObjectOfType<UIPauseMenu>(true);
+                    //menu.gameObject.SetActive(true);
                 }
                 break;
             case GameState.PAUSE:
@@ -155,10 +167,16 @@ public class GameStateManager : MonoBehaviour
                 break;
             case GameState.OVER:
                 {
-                    UIOverMenu menu = FindObjectOfType<UIOverMenu>(true); 
+                    UIOverMenu menu = FindObjectOfType<UIOverMenu>(true);
                     menu.gameObject.SetActive(false);
 
                     Time.timeScale = 1;
+                }
+                break;
+            case GameState.LOAD:
+                {
+                    UIPauseMenu menu = FindObjectOfType<UIPauseMenu>(true);
+                    menu.gameObject.SetActive(false);
                 }
                 break;
             case GameState.PAUSE:
@@ -175,9 +193,9 @@ public class GameStateManager : MonoBehaviour
 
     public void ChangeToGameplay()
     {
-        LevelManager.INSTANCE.LoadLevel("spmap_gp1");
+        LevelManager.INSTANCE.LoadLevel("Samplescene");
 
-        ChangeState(GameState.GAMEPLAY);
+        //ChangeState(GameState.GAMEPLAY);
     }
 
     public void ChangeToGameplayImmediate()
