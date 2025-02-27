@@ -83,7 +83,7 @@ public class PlayerController : MonoBehaviour
     {
         RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, 2.5f, LayerMask.GetMask("Environment"));
 
-        if (hit.collider != null) // Verifica que haya contacto con el suelo
+        if (hit.collider != null) 
         {
             grounded = true;
             jumpCount = 0;
