@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlanetEspresso_Prop_0: -1640340760365931441
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
