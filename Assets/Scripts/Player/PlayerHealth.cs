@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
 
-public class PlayerHealthController : MonoBehaviour
+public class PlayerHealth : MonoBehaviour
 {
     public Image barraDeVida;
     public int maxLives = 3;

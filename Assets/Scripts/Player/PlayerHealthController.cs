@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 // Count the number of lives of the player
-public class PlayerHealthControllers : MonoBehaviour
+public class PlayerHealthController : MonoBehaviour
 {
     public int maxLives = 5; // Initial live number.
     public int lives; // Live number
@@ -20,18 +20,18 @@ public class PlayerHealthControllers : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     public void Damage()
     {
-        if(lives > 0)
+        if (lives > 0)
         {
             lives = lives - 1;
         }
-        
+
         // The player has died.
-        if(lives == 0)
+        if (lives == 0)
         {
             GameStateManager statemanager = FindFirstObjectByType<GameStateManager>();
             statemanager.ChangeState(GameStateManager.GameState.OVER);
@@ -49,6 +49,7 @@ public class PlayerHealthControllers : MonoBehaviour
         hCtr.cRenderer.DOColor(Color.red, 0.5f).SetEase(Ease.InOutSine);
         hCtr.cRenderer.DOColor(Color.white, 0.5f).SetDelay(0.5f).SetEase(Ease.InOutSine);
 
+
         Debug.Log("The player has taken damage.");
     }
 
@@ -63,6 +64,7 @@ public class PlayerHealthControllers : MonoBehaviour
     public void Regenerate()
     {
         lives = lives + 1;
+
 
         Debug.Log("The player has gained one hp.");
     }
