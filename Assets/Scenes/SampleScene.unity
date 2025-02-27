@@ -6205,10 +6205,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 7199731269676912458, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 78891844530407693, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1523306702}
+    - targetCorrespondingSourceObject: {fileID: 78891844530407693, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1523306703}
   m_SourcePrefab: {fileID: 100100000, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
 --- !u!1 &423266444
 GameObject:
@@ -23626,6 +23633,59 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1523306699 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 78891844530407693, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
+  m_PrefabInstance: {fileID: 409429645}
+  m_PrefabAsset: {fileID: 0}
+--- !u!50 &1523306700 stripped
+Rigidbody2D:
+  m_CorrespondingSourceObject: {fileID: 5882889628281576426, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
+  m_PrefabInstance: {fileID: 409429645}
+  m_PrefabAsset: {fileID: 0}
+--- !u!70 &1523306701 stripped
+CapsuleCollider2D:
+  m_CorrespondingSourceObject: {fileID: 7158674778641773490, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
+  m_PrefabInstance: {fileID: 409429645}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1523306702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1523306699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc61d2acc785ae44089c80871c55ee4b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
+  jumpForce: 10
+  ceilDistance: 1
+  gravity: 2
+  maxJumps: 1
+  cAnimator: {fileID: 2071346118}
+  cRenderer: {fileID: 2071346119}
+  cRigidbody: {fileID: 1523306700}
+  cCollider: {fileID: 1523306701}
+  cHealth: {fileID: 0}
+--- !u!114 &1523306703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1523306699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 887b45e5e120bda40b04963e38ef568d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  barraDeVida: {fileID: 0}
+  maxLives: 3
+  lives: 0
+  dmgDelay: 0.5
 --- !u!1 &1528865472
 GameObject:
   m_ObjectHideFlags: 0
@@ -25439,7 +25499,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07c32974a015cbb4b8108a376d0f97ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreEscena: random
 --- !u!61 &2047452754
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -25501,6 +25560,16 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &2071346118 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 3483145326026788520, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
+  m_PrefabInstance: {fileID: 409429645}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &2071346119 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 6673413189984173722, guid: 8714c2d631284544eb6e44bdc4804649, type: 3}
+  m_PrefabInstance: {fileID: 409429645}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2122173247
 GameObject:
   m_ObjectHideFlags: 0
