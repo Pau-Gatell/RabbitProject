@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6980747115219030905}
   - component: {fileID: 8520767659659271477}
   - component: {fileID: 8890126545658358707}
+  - component: {fileID: 6186334687554907745}
   m_Layer: 0
   m_Name: shootesting
   m_TagString: Untagged
@@ -30,7 +31,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 896.18, y: -86.03, z: 0}
-  m_LocalScale: {x: -0.5, y: 0.5, z: 1}
+  m_LocalScale: {x: -0.17, y: 0.17, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -79,7 +80,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: -8809470994601461542, guid: a5db014329288924dba0d2845e4e2455, type: 3}
+  m_Sprite: {fileID: 5450722395986086617, guid: da22a567ceaa1774b91f999cdbf8a9c3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -151,8 +152,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.24536133, y: 0}
-  m_Radius: 0.15661621
+  m_Offset: {x: 0.0076293945, y: 0}
+  m_Radius: 0.56915283
 --- !u!114 &8890126545658358707
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -166,3 +167,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+--- !u!114 &6186334687554907745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8376848730276096014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e47a416aa80f74fa97ad31754948b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageForce: 5

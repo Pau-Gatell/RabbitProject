@@ -4,6 +4,8 @@ public class PlayerWeaponController : MonoBehaviour
 {
     public Transform projectilePrefab;
     public Transform projectilePivot;
+    public Animator cAnimator;
+
     public float projectileSpeed;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -29,5 +31,8 @@ public class PlayerWeaponController : MonoBehaviour
         projectile.position = projectilePivot.position;
         Rigidbody2D rigidbody = projectile.GetComponent<Rigidbody2D>();
         rigidbody.linearVelocity = Vector2.right * projectileSpeed;
+
+        cAnimator.SetBool("Shoot", true);
+
     }
 }

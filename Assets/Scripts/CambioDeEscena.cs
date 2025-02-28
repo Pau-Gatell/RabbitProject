@@ -9,7 +9,7 @@ public class CambioDeEscena2D : MonoBehaviour
     {
     
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex; 
-        SceneManager.LoadScene(currentSceneIndex + 1);
+        SceneManager.LoadScene(currentSceneIndex + 3);
 
     }
 }

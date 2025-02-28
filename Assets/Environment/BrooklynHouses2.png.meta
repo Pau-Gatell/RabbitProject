@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BrooklynHouses2_0: -6001179066135007058
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
